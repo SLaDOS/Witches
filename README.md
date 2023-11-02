@@ -1,4 +1,4 @@
-<img src="https://witches.is.ed.ac.uk/_nuxt/img/main-logo.e1b0635.png" alt="logo" style="zoom: 50%;" />
+<img src="https://witches.is.ed.ac.uk/_nuxt/img/main-logo.e1b0635.png" alt="logo" style="zoom: 20%;" />
 
 # Witches
 
