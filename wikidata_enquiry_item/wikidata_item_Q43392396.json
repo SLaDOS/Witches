@@ -1,0 +1,1234 @@
+{
+    "labels": {
+        "en": {
+            "language": "en",
+            "value": "Issobell Inglis"
+        },
+        "es": {
+            "language": "es",
+            "value": "Issobell Inglis"
+        },
+        "ast": {
+            "language": "ast",
+            "value": "Issobell Inglis"
+        },
+        "nl": {
+            "language": "nl",
+            "value": "Issobell Inglis"
+        }
+    },
+    "descriptions": {
+        "en": {
+            "language": "en",
+            "value": "accused of witchcraft"
+        }
+    },
+    "aliases": {
+        "en": [
+            {
+                "language": "en",
+                "value": "Isobel English"
+            }
+        ]
+    },
+    "claims": {
+        "P4478": [
+            {
+                "mainsnak": {
+                    "snaktype": "value",
+                    "property": "P4478",
+                    "datatype": "external-id",
+                    "datavalue": {
+                        "value": "A/EGD/597",
+                        "type": "string"
+                    }
+                },
+                "type": "statement",
+                "id": "Q43392396$0500FB6C-7310-4041-9CDD-CB6B9ED9AFF1",
+                "rank": "normal"
+            }
+        ],
+        "P31": [
+            {
+                "mainsnak": {
+                    "snaktype": "value",
+                    "property": "P31",
+                    "datatype": "wikibase-item",
+                    "datavalue": {
+                        "value": {
+                            "entity-type": "item",
+                            "numeric-id": 5
+                        },
+                        "type": "wikibase-entityid"
+                    }
+                },
+                "type": "statement",
+                "id": "Q43392396$FAD32112-726D-4D06-9AB2-2DC0DD6AC252",
+                "rank": "normal",
+                "references": [
+                    {
+                        "snaks": {
+                            "P854": [
+                                {
+                                    "snaktype": "value",
+                                    "property": "P854",
+                                    "datatype": "url",
+                                    "datavalue": {
+                                        "value": "http://witches.shca.ed.ac.uk/index.cfm?fuseaction=home.accusedrecord&search_string=lastname&accusedref=A/EGD/597",
+                                        "type": "string"
+                                    }
+                                }
+                            ]
+                        },
+                        "snaks-order": [
+                            "P854"
+                        ],
+                        "hash": "ce104ac2f509475f230febbb385862deb191a82f"
+                    }
+                ]
+            }
+        ],
+        "P21": [
+            {
+                "mainsnak": {
+                    "snaktype": "value",
+                    "property": "P21",
+                    "datatype": "wikibase-item",
+                    "datavalue": {
+                        "value": {
+                            "entity-type": "item",
+                            "numeric-id": 6581072
+                        },
+                        "type": "wikibase-entityid"
+                    }
+                },
+                "type": "statement",
+                "id": "Q43392396$E79C26EB-7F9F-44B0-8D1F-418BB0EE0660",
+                "rank": "normal",
+                "references": [
+                    {
+                        "snaks": {
+                            "P854": [
+                                {
+                                    "snaktype": "value",
+                                    "property": "P854",
+                                    "datatype": "url",
+                                    "datavalue": {
+                                        "value": "http://witches.shca.ed.ac.uk/index.cfm?fuseaction=home.accusedrecord&search_string=lastname&accusedref=A/EGD/597",
+                                        "type": "string"
+                                    }
+                                }
+                            ]
+                        },
+                        "snaks-order": [
+                            "P854"
+                        ],
+                        "hash": "ce104ac2f509475f230febbb385862deb191a82f"
+                    }
+                ]
+            }
+        ],
+        "P551": [
+            {
+                "mainsnak": {
+                    "snaktype": "value",
+                    "property": "P551",
+                    "datatype": "wikibase-item",
+                    "datavalue": {
+                        "value": {
+                            "entity-type": "item",
+                            "numeric-id": 2424554
+                        },
+                        "type": "wikibase-entityid"
+                    }
+                },
+                "type": "statement",
+                "id": "Q43392396$1291479F-FEDB-4BE3-BA9C-AF7B323FE513",
+                "rank": "normal",
+                "references": [
+                    {
+                        "snaks": {
+                            "P854": [
+                                {
+                                    "snaktype": "value",
+                                    "property": "P854",
+                                    "datatype": "url",
+                                    "datavalue": {
+                                        "value": "http://witches.shca.ed.ac.uk/index.cfm?fuseaction=home.accusedrecord&search_string=lastname&accusedref=A/EGD/597",
+                                        "type": "string"
+                                    }
+                                }
+                            ]
+                        },
+                        "snaks-order": [
+                            "P854"
+                        ],
+                        "hash": "ce104ac2f509475f230febbb385862deb191a82f"
+                    }
+                ]
+            }
+        ],
+        "P2632": [
+            {
+                "mainsnak": {
+                    "snaktype": "value",
+                    "property": "P2632",
+                    "datatype": "wikibase-item",
+                    "datavalue": {
+                        "value": {
+                            "entity-type": "item",
+                            "numeric-id": 2424554
+                        },
+                        "type": "wikibase-entityid"
+                    }
+                },
+                "type": "statement",
+                "id": "Q43392396$1762513E-CFF8-43C9-8BDB-FBD43A95AEB9",
+                "rank": "normal",
+                "references": [
+                    {
+                        "snaks": {
+                            "P854": [
+                                {
+                                    "snaktype": "value",
+                                    "property": "P854",
+                                    "datatype": "url",
+                                    "datavalue": {
+                                        "value": "http://witches.shca.ed.ac.uk/index.cfm?fuseaction=home.register",
+                                        "type": "string"
+                                    }
+                                }
+                            ]
+                        },
+                        "snaks-order": [
+                            "P854"
+                        ],
+                        "hash": "c66ea16abf8ab2812d50b9117aa823adc9e99577"
+                    },
+                    {
+                        "snaks": {
+                            "P248": [
+                                {
+                                    "snaktype": "value",
+                                    "property": "P248",
+                                    "datatype": "wikibase-item",
+                                    "datavalue": {
+                                        "value": {
+                                            "entity-type": "item",
+                                            "numeric-id": 53631968
+                                        },
+                                        "type": "wikibase-entityid"
+                                    }
+                                }
+                            ]
+                        },
+                        "snaks-order": [
+                            "P248"
+                        ],
+                        "hash": "bc1214120e8e2a86ca040e731428fa434e8846fc"
+                    },
+                    {
+                        "snaks": {
+                            "P854": [
+                                {
+                                    "snaktype": "value",
+                                    "property": "P854",
+                                    "datatype": "url",
+                                    "datavalue": {
+                                        "value": "http://witches.shca.ed.ac.uk/index.cfm?fuseaction=home.trialrecord&search_string&trialref=T/LA/805",
+                                        "type": "string"
+                                    }
+                                }
+                            ]
+                        },
+                        "snaks-order": [
+                            "P854"
+                        ],
+                        "hash": "86f81c373658a02e906f0c5dbcf532c683a39aa7"
+                    }
+                ]
+            }
+        ],
+        "P20": [
+            {
+                "mainsnak": {
+                    "snaktype": "value",
+                    "property": "P20",
+                    "datatype": "wikibase-item",
+                    "datavalue": {
+                        "value": {
+                            "entity-type": "item",
+                            "numeric-id": 65494236
+                        },
+                        "type": "wikibase-entityid"
+                    }
+                },
+                "type": "statement",
+                "id": "Q43392396$61AB4A06-2992-463A-AA03-F4A036E84DF3",
+                "rank": "normal",
+                "references": [
+                    {
+                        "snaks": {
+                            "P854": [
+                                {
+                                    "snaktype": "value",
+                                    "property": "P854",
+                                    "datatype": "url",
+                                    "datavalue": {
+                                        "value": "http://witches.shca.ed.ac.uk/index.cfm?fuseaction=home.trialrecord&trialref=T%2FLA%2F805&search_type=searchaccused&search_string=lastname",
+                                        "type": "string"
+                                    }
+                                }
+                            ]
+                        },
+                        "snaks-order": [
+                            "P854"
+                        ],
+                        "hash": "1decd44a25a9b9fe763d7e950049971e006c3f9e"
+                    }
+                ]
+            }
+        ],
+        "P1595": [
+            {
+                "mainsnak": {
+                    "snaktype": "value",
+                    "property": "P1595",
+                    "datatype": "wikibase-item",
+                    "datavalue": {
+                        "value": {
+                            "entity-type": "item",
+                            "numeric-id": 259745
+                        },
+                        "type": "wikibase-entityid"
+                    }
+                },
+                "type": "statement",
+                "id": "Q43392396$8D5CF68F-C980-4BE1-8135-C2A7B3202CE0",
+                "rank": "normal",
+                "references": [
+                    {
+                        "snaks": {
+                            "P854": [
+                                {
+                                    "snaktype": "value",
+                                    "property": "P854",
+                                    "datatype": "url",
+                                    "datavalue": {
+                                        "value": "http://witches.shca.ed.ac.uk/index.cfm?fuseaction=home.accusedrecord&search_string=lastname&accusedref=A/EGD/597",
+                                        "type": "string"
+                                    }
+                                }
+                            ]
+                        },
+                        "snaks-order": [
+                            "P854"
+                        ],
+                        "hash": "ce104ac2f509475f230febbb385862deb191a82f"
+                    }
+                ]
+            }
+        ],
+        "P1196": [
+            {
+                "mainsnak": {
+                    "snaktype": "value",
+                    "property": "P1196",
+                    "datatype": "wikibase-item",
+                    "datavalue": {
+                        "value": {
+                            "entity-type": "item",
+                            "numeric-id": 8454
+                        },
+                        "type": "wikibase-entityid"
+                    }
+                },
+                "type": "statement",
+                "id": "Q43392396$315720E8-12DE-407B-83F6-4B647404955E",
+                "rank": "normal",
+                "references": [
+                    {
+                        "snaks": {
+                            "P854": [
+                                {
+                                    "snaktype": "value",
+                                    "property": "P854",
+                                    "datatype": "url",
+                                    "datavalue": {
+                                        "value": "http://witches.shca.ed.ac.uk/index.cfm?fuseaction=home.trialrecord&search_string&trialref=T/LA/805",
+                                        "type": "string"
+                                    }
+                                }
+                            ]
+                        },
+                        "snaks-order": [
+                            "P854"
+                        ],
+                        "hash": "86f81c373658a02e906f0c5dbcf532c683a39aa7"
+                    }
+                ]
+            }
+        ],
+        "P570": [
+            {
+                "mainsnak": {
+                    "snaktype": "value",
+                    "property": "P570",
+                    "datatype": "time",
+                    "datavalue": {
+                        "value": {
+                            "time": "+00000001675-07-29T00:00:00Z",
+                            "precision": 11,
+                            "after": 0,
+                            "before": 0,
+                            "timezone": 0,
+                            "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+                        },
+                        "type": "time"
+                    }
+                },
+                "type": "statement",
+                "id": "Q43392396$9DD3FC27-0E46-4D94-B9F9-85794805B662",
+                "rank": "normal",
+                "references": [
+                    {
+                        "snaks": {
+                            "P854": [
+                                {
+                                    "snaktype": "value",
+                                    "property": "P854",
+                                    "datatype": "url",
+                                    "datavalue": {
+                                        "value": "http://witches.shca.ed.ac.uk/index.cfm?fuseaction=home.trialrecord&search_string&trialref=T/LA/805",
+                                        "type": "string"
+                                    }
+                                }
+                            ]
+                        },
+                        "snaks-order": [
+                            "P854"
+                        ],
+                        "hash": "86f81c373658a02e906f0c5dbcf532c683a39aa7"
+                    }
+                ]
+            }
+        ],
+        "P793": [
+            {
+                "mainsnak": {
+                    "snaktype": "value",
+                    "property": "P793",
+                    "datatype": "wikibase-item",
+                    "datavalue": {
+                        "value": {
+                            "entity-type": "item",
+                            "numeric-id": 1403016
+                        },
+                        "type": "wikibase-entityid"
+                    }
+                },
+                "type": "statement",
+                "id": "Q43392396$E79ED038-0A16-47DD-860E-CDB39AD1783C",
+                "rank": "normal",
+                "references": [
+                    {
+                        "snaks": {
+                            "P854": [
+                                {
+                                    "snaktype": "value",
+                                    "property": "P854",
+                                    "datatype": "url",
+                                    "datavalue": {
+                                        "value": "http://witches.shca.ed.ac.uk/index.cfm?fuseaction=home.trialrecord&search_string&trialref=T/LA/805",
+                                        "type": "string"
+                                    }
+                                }
+                            ]
+                        },
+                        "snaks-order": [
+                            "P854"
+                        ],
+                        "hash": "86f81c373658a02e906f0c5dbcf532c683a39aa7"
+                    }
+                ]
+            },
+            {
+                "mainsnak": {
+                    "snaktype": "value",
+                    "property": "P793",
+                    "datatype": "wikibase-item",
+                    "datavalue": {
+                        "value": {
+                            "entity-type": "item",
+                            "numeric-id": 43404935
+                        },
+                        "type": "wikibase-entityid"
+                    }
+                },
+                "type": "statement",
+                "id": "Q43392396$681E63FF-E15A-4261-9D89-942CB40766A1",
+                "rank": "normal",
+                "qualifiers": {
+                    "P585": [
+                        {
+                            "snaktype": "value",
+                            "property": "P585",
+                            "datatype": "time",
+                            "datavalue": {
+                                "value": {
+                                    "time": "+00000001675-07-12T00:00:00Z",
+                                    "precision": 11,
+                                    "after": 0,
+                                    "before": 0,
+                                    "timezone": 0,
+                                    "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+                                },
+                                "type": "time"
+                            },
+                            "hash": "daea1dbf9532b6cbe6ab250b336450e22b255658"
+                        }
+                    ]
+                },
+                "qualifiers-order": [
+                    "P585"
+                ],
+                "references": [
+                    {
+                        "snaks": {
+                            "P854": [
+                                {
+                                    "snaktype": "value",
+                                    "property": "P854",
+                                    "datatype": "url",
+                                    "datavalue": {
+                                        "value": "http://witches.shca.ed.ac.uk/index.cfm?fuseaction=home.trialrecord&search_string&trialref=T/LA/805",
+                                        "type": "string"
+                                    }
+                                }
+                            ]
+                        },
+                        "snaks-order": [
+                            "P854"
+                        ],
+                        "hash": "86f81c373658a02e906f0c5dbcf532c683a39aa7"
+                    }
+                ]
+            },
+            {
+                "mainsnak": {
+                    "snaktype": "value",
+                    "property": "P793",
+                    "datatype": "wikibase-item",
+                    "datavalue": {
+                        "value": {
+                            "entity-type": "item",
+                            "numeric-id": 66055048
+                        },
+                        "type": "wikibase-entityid"
+                    }
+                },
+                "type": "statement",
+                "id": "Q43392396$0B572232-25A2-4A91-99FF-A1AE8502AF59",
+                "rank": "normal",
+                "qualifiers": {
+                    "P276": [
+                        {
+                            "snaktype": "value",
+                            "property": "P276",
+                            "datatype": "wikibase-item",
+                            "datavalue": {
+                                "value": {
+                                    "entity-type": "item",
+                                    "numeric-id": 23436
+                                },
+                                "type": "wikibase-entityid"
+                            },
+                            "hash": "361f7dd72b274f73904f4732a1db79e86461fa6d"
+                        }
+                    ],
+                    "P585": [
+                        {
+                            "snaktype": "value",
+                            "property": "P585",
+                            "datatype": "time",
+                            "datavalue": {
+                                "value": {
+                                    "time": "+00000001676-07-07T00:00:00Z",
+                                    "precision": 11,
+                                    "after": 0,
+                                    "before": 0,
+                                    "timezone": 0,
+                                    "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+                                },
+                                "type": "time"
+                            },
+                            "hash": "7945a21cd19fb5aedf03bc959eb61738e890151d"
+                        }
+                    ]
+                },
+                "qualifiers-order": [
+                    "P276",
+                    "P585"
+                ],
+                "references": [
+                    {
+                        "snaks": {
+                            "P854": [
+                                {
+                                    "snaktype": "value",
+                                    "property": "P854",
+                                    "datatype": "url",
+                                    "datavalue": {
+                                        "value": "http://witches.shca.ed.ac.uk/index.cfm?fuseaction=home.trialrecord&search_string&trialref=T/LA/805",
+                                        "type": "string"
+                                    }
+                                }
+                            ]
+                        },
+                        "snaks-order": [
+                            "P854"
+                        ],
+                        "hash": "86f81c373658a02e906f0c5dbcf532c683a39aa7"
+                    }
+                ]
+            },
+            {
+                "mainsnak": {
+                    "snaktype": "value",
+                    "property": "P793",
+                    "datatype": "wikibase-item",
+                    "datavalue": {
+                        "value": {
+                            "entity-type": "item",
+                            "numeric-id": 66055048
+                        },
+                        "type": "wikibase-entityid"
+                    }
+                },
+                "type": "statement",
+                "id": "Q43392396$56A49EA6-1E76-4AB4-91B5-3416199F9FEA",
+                "rank": "normal",
+                "qualifiers": {
+                    "P585": [
+                        {
+                            "snaktype": "value",
+                            "property": "P585",
+                            "datatype": "time",
+                            "datavalue": {
+                                "value": {
+                                    "time": "+00000001675-07-19T00:00:00Z",
+                                    "precision": 11,
+                                    "after": 0,
+                                    "before": 0,
+                                    "timezone": 0,
+                                    "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+                                },
+                                "type": "time"
+                            },
+                            "hash": "6e5fb807a57a4d77851363be014fbe0950d069f2"
+                        }
+                    ],
+                    "P276": [
+                        {
+                            "snaktype": "value",
+                            "property": "P276",
+                            "datatype": "wikibase-item",
+                            "datavalue": {
+                                "value": {
+                                    "entity-type": "item",
+                                    "numeric-id": 23436
+                                },
+                                "type": "wikibase-entityid"
+                            },
+                            "hash": "361f7dd72b274f73904f4732a1db79e86461fa6d"
+                        }
+                    ]
+                },
+                "qualifiers-order": [
+                    "P585",
+                    "P276"
+                ],
+                "references": [
+                    {
+                        "snaks": {
+                            "P854": [
+                                {
+                                    "snaktype": "value",
+                                    "property": "P854",
+                                    "datatype": "url",
+                                    "datavalue": {
+                                        "value": "http://witches.shca.ed.ac.uk/index.cfm?fuseaction=home.trialrecord&search_string&trialref=T/LA/805",
+                                        "type": "string"
+                                    }
+                                }
+                            ]
+                        },
+                        "snaks-order": [
+                            "P854"
+                        ],
+                        "hash": "86f81c373658a02e906f0c5dbcf532c683a39aa7"
+                    }
+                ]
+            },
+            {
+                "mainsnak": {
+                    "snaktype": "value",
+                    "property": "P793",
+                    "datatype": "wikibase-item",
+                    "datavalue": {
+                        "value": {
+                            "entity-type": "item",
+                            "numeric-id": 66055048
+                        },
+                        "type": "wikibase-entityid"
+                    }
+                },
+                "type": "statement",
+                "id": "Q43392396$130D4515-EE9F-41FF-862E-B94A6EB893F5",
+                "rank": "normal",
+                "qualifiers": {
+                    "P585": [
+                        {
+                            "snaktype": "value",
+                            "property": "P585",
+                            "datatype": "time",
+                            "datavalue": {
+                                "value": {
+                                    "time": "+00000001675-05-04T00:00:00Z",
+                                    "precision": 11,
+                                    "after": 0,
+                                    "before": 0,
+                                    "timezone": 0,
+                                    "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+                                },
+                                "type": "time"
+                            },
+                            "hash": "d1c98db52ac1e8e0d438d12ff5eef017ae42d44d"
+                        }
+                    ],
+                    "P276": [
+                        {
+                            "snaktype": "value",
+                            "property": "P276",
+                            "datatype": "wikibase-item",
+                            "datavalue": {
+                                "value": {
+                                    "entity-type": "item",
+                                    "numeric-id": 2424554
+                                },
+                                "type": "wikibase-entityid"
+                            },
+                            "hash": "c61804497d0af43aa4d7a6e86bbd5acf4ea82cd4"
+                        }
+                    ]
+                },
+                "qualifiers-order": [
+                    "P585",
+                    "P276"
+                ],
+                "references": [
+                    {
+                        "snaks": {
+                            "P854": [
+                                {
+                                    "snaktype": "value",
+                                    "property": "P854",
+                                    "datatype": "url",
+                                    "datavalue": {
+                                        "value": "http://witches.shca.ed.ac.uk/index.cfm?fuseaction=home.trialrecord&search_string&trialref=T/LA/805",
+                                        "type": "string"
+                                    }
+                                }
+                            ]
+                        },
+                        "snaks-order": [
+                            "P854"
+                        ],
+                        "hash": "86f81c373658a02e906f0c5dbcf532c683a39aa7"
+                    }
+                ]
+            },
+            {
+                "mainsnak": {
+                    "snaktype": "value",
+                    "property": "P793",
+                    "datatype": "wikibase-item",
+                    "datavalue": {
+                        "value": {
+                            "entity-type": "item",
+                            "numeric-id": 66055048
+                        },
+                        "type": "wikibase-entityid"
+                    }
+                },
+                "type": "statement",
+                "id": "Q43392396$123A8DD4-2CAA-4B4E-A94E-759B88045DE8",
+                "rank": "normal",
+                "qualifiers": {
+                    "P585": [
+                        {
+                            "snaktype": "value",
+                            "property": "P585",
+                            "datatype": "time",
+                            "datavalue": {
+                                "value": {
+                                    "time": "+00000001675-07-12T00:00:00Z",
+                                    "precision": 11,
+                                    "after": 0,
+                                    "before": 0,
+                                    "timezone": 0,
+                                    "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+                                },
+                                "type": "time"
+                            },
+                            "hash": "daea1dbf9532b6cbe6ab250b336450e22b255658"
+                        }
+                    ],
+                    "P276": [
+                        {
+                            "snaktype": "value",
+                            "property": "P276",
+                            "datatype": "wikibase-item",
+                            "datavalue": {
+                                "value": {
+                                    "entity-type": "item",
+                                    "numeric-id": 23436
+                                },
+                                "type": "wikibase-entityid"
+                            },
+                            "hash": "361f7dd72b274f73904f4732a1db79e86461fa6d"
+                        }
+                    ]
+                },
+                "qualifiers-order": [
+                    "P585",
+                    "P276"
+                ],
+                "references": [
+                    {
+                        "snaks": {
+                            "P854": [
+                                {
+                                    "snaktype": "value",
+                                    "property": "P854",
+                                    "datatype": "url",
+                                    "datavalue": {
+                                        "value": "http://witches.shca.ed.ac.uk/index.cfm?fuseaction=home.trialrecord&search_string&trialref=T/LA/805",
+                                        "type": "string"
+                                    }
+                                }
+                            ]
+                        },
+                        "snaks-order": [
+                            "P854"
+                        ],
+                        "hash": "86f81c373658a02e906f0c5dbcf532c683a39aa7"
+                    }
+                ]
+            },
+            {
+                "mainsnak": {
+                    "snaktype": "value",
+                    "property": "P793",
+                    "datatype": "wikibase-item",
+                    "datavalue": {
+                        "value": {
+                            "entity-type": "item",
+                            "numeric-id": 66458810
+                        },
+                        "type": "wikibase-entityid"
+                    }
+                },
+                "type": "statement",
+                "id": "Q43392396$326FC050-F93A-43E5-B304-B15938E3A64E",
+                "rank": "normal",
+                "qualifiers": {
+                    "P580": [
+                        {
+                            "snaktype": "value",
+                            "property": "P580",
+                            "datatype": "time",
+                            "datavalue": {
+                                "value": {
+                                    "time": "+00000001675-05-04T00:00:00Z",
+                                    "precision": 11,
+                                    "after": 0,
+                                    "before": 0,
+                                    "timezone": 0,
+                                    "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+                                },
+                                "type": "time"
+                            },
+                            "hash": "0896fab3bd08a0af930435425503df1eebfe1636"
+                        }
+                    ],
+                    "P582": [
+                        {
+                            "snaktype": "value",
+                            "property": "P582",
+                            "datatype": "time",
+                            "datavalue": {
+                                "value": {
+                                    "time": "+00000001675-07-29T00:00:00Z",
+                                    "precision": 11,
+                                    "after": 0,
+                                    "before": 0,
+                                    "timezone": 0,
+                                    "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+                                },
+                                "type": "time"
+                            },
+                            "hash": "19e6376718801e08c58829749992de6a14dda55f"
+                        }
+                    ],
+                    "P585": [
+                        {
+                            "snaktype": "value",
+                            "property": "P585",
+                            "datatype": "time",
+                            "datavalue": {
+                                "value": {
+                                    "time": "+00000001675-05-04T00:00:00Z",
+                                    "precision": 11,
+                                    "after": 0,
+                                    "before": 0,
+                                    "timezone": 0,
+                                    "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+                                },
+                                "type": "time"
+                            },
+                            "hash": "d1c98db52ac1e8e0d438d12ff5eef017ae42d44d"
+                        }
+                    ]
+                },
+                "qualifiers-order": [
+                    "P580",
+                    "P582",
+                    "P585"
+                ],
+                "references": [
+                    {
+                        "snaks": {
+                            "P854": [
+                                {
+                                    "snaktype": "value",
+                                    "property": "P854",
+                                    "datatype": "url",
+                                    "datavalue": {
+                                        "value": "http://witches.shca.ed.ac.uk/index.cfm?fuseaction=home.caserecord&caseref=C%2FEGD%2F608&search_type=searchtrial&search_string=",
+                                        "type": "string"
+                                    }
+                                }
+                            ]
+                        },
+                        "snaks-order": [
+                            "P854"
+                        ],
+                        "hash": "e7d10c026fd64c194378884332bda8295c1fa2d8"
+                    }
+                ]
+            },
+            {
+                "mainsnak": {
+                    "snaktype": "value",
+                    "property": "P793",
+                    "datatype": "wikibase-item",
+                    "datavalue": {
+                        "value": {
+                            "entity-type": "item",
+                            "numeric-id": 112914968
+                        },
+                        "type": "wikibase-entityid"
+                    }
+                },
+                "type": "statement",
+                "id": "Q43392396$DD26BF02-F4D3-4573-A0AF-7E0985A84E8B",
+                "rank": "normal",
+                "qualifiers": {
+                    "P10838": [
+                        {
+                            "snaktype": "value",
+                            "property": "P10838",
+                            "datatype": "external-id",
+                            "datavalue": {
+                                "value": "C/EGD/608",
+                                "type": "string"
+                            },
+                            "hash": "562f9fe1fe0d5e5d2a4eb6e873bb760bdbcd2203"
+                        }
+                    ]
+                },
+                "qualifiers-order": [
+                    "P10838"
+                ],
+                "references": [
+                    {
+                        "snaks": {
+                            "P854": [
+                                {
+                                    "snaktype": "value",
+                                    "property": "P854",
+                                    "datatype": "url",
+                                    "datavalue": {
+                                        "value": "http://witches.shca.ed.ac.uk/index.cfm?fuseaction=home.caserecord&caseref=C/EGD/608&search_type=searchpeople&search_string=lastname%3D%26firstname%3D%26residence%3D",
+                                        "type": "string"
+                                    }
+                                }
+                            ]
+                        },
+                        "snaks-order": [
+                            "P854"
+                        ],
+                        "hash": "405f0d57007e5d903c8c561c70c0ba9b55420ee5"
+                    },
+                    {
+                        "snaks": {
+                            "P248": [
+                                {
+                                    "snaktype": "value",
+                                    "property": "P248",
+                                    "datatype": "wikibase-item",
+                                    "datavalue": {
+                                        "value": {
+                                            "entity-type": "item",
+                                            "numeric-id": 53631968
+                                        },
+                                        "type": "wikibase-entityid"
+                                    }
+                                }
+                            ]
+                        },
+                        "snaks-order": [
+                            "P248"
+                        ],
+                        "hash": "bc1214120e8e2a86ca040e731428fa434e8846fc"
+                    }
+                ]
+            }
+        ],
+        "P509": [
+            {
+                "mainsnak": {
+                    "snaktype": "value",
+                    "property": "P509",
+                    "datatype": "wikibase-item",
+                    "datavalue": {
+                        "value": {
+                            "entity-type": "item",
+                            "numeric-id": 1145328
+                        },
+                        "type": "wikibase-entityid"
+                    }
+                },
+                "type": "statement",
+                "id": "Q43392396$52525D6E-F8A5-4BEE-88ED-9A4D3F1A839D",
+                "rank": "normal",
+                "references": [
+                    {
+                        "snaks": {
+                            "P854": [
+                                {
+                                    "snaktype": "value",
+                                    "property": "P854",
+                                    "datatype": "url",
+                                    "datavalue": {
+                                        "value": "http://witches.hca.ed.ac.uk/trial/T/LA/805",
+                                        "type": "string"
+                                    }
+                                }
+                            ]
+                        },
+                        "snaks-order": [
+                            "P854"
+                        ],
+                        "hash": "a95a1d7056c05ca88ca90438bff86552268b9417"
+                    }
+                ]
+            },
+            {
+                "mainsnak": {
+                    "snaktype": "value",
+                    "property": "P509",
+                    "datatype": "wikibase-item",
+                    "datavalue": {
+                        "value": {
+                            "entity-type": "item",
+                            "numeric-id": 468455
+                        },
+                        "type": "wikibase-entityid"
+                    }
+                },
+                "type": "statement",
+                "id": "Q43392396$029C4FFE-8CCB-4092-90BF-15410DBD553E",
+                "rank": "normal",
+                "references": [
+                    {
+                        "snaks": {
+                            "P854": [
+                                {
+                                    "snaktype": "value",
+                                    "property": "P854",
+                                    "datatype": "url",
+                                    "datavalue": {
+                                        "value": "http://witches.hca.ed.ac.uk/trial/T/LA/805",
+                                        "type": "string"
+                                    }
+                                }
+                            ]
+                        },
+                        "snaks-order": [
+                            "P854"
+                        ],
+                        "hash": "a95a1d7056c05ca88ca90438bff86552268b9417"
+                    }
+                ]
+            }
+        ],
+        "P1343": [
+            {
+                "mainsnak": {
+                    "snaktype": "value",
+                    "property": "P1343",
+                    "datatype": "wikibase-item",
+                    "datavalue": {
+                        "value": {
+                            "entity-type": "item",
+                            "numeric-id": 66605812
+                        },
+                        "type": "wikibase-entityid"
+                    }
+                },
+                "type": "statement",
+                "id": "Q43392396$0944D396-59F1-4FA4-9071-8FA8DA99C1EC",
+                "rank": "normal",
+                "qualifiers": {
+                    "P304": [
+                        {
+                            "snaktype": "value",
+                            "property": "P304",
+                            "datatype": "string",
+                            "datavalue": {
+                                "value": "50",
+                                "type": "string"
+                            },
+                            "hash": "b98b12defd9a140ba781f93440038631bbe8d7b3"
+                        }
+                    ],
+                    "P2699": [
+                        {
+                            "snaktype": "value",
+                            "property": "P2699",
+                            "datatype": "url",
+                            "datavalue": {
+                                "value": "https://babel.hathitrust.org/cgi/pt?id=mdp.39015035112518&view=1up&seq=68",
+                                "type": "string"
+                            },
+                            "hash": "bff14d12c0889237bc17be3a3f3de120eea08cf0"
+                        }
+                    ]
+                },
+                "qualifiers-order": [
+                    "P304",
+                    "P2699"
+                ]
+            }
+        ],
+        "P735": [
+            {
+                "mainsnak": {
+                    "snaktype": "value",
+                    "property": "P735",
+                    "datatype": "wikibase-item",
+                    "datavalue": {
+                        "value": {
+                            "entity-type": "item",
+                            "numeric-id": 84306168
+                        },
+                        "type": "wikibase-entityid"
+                    }
+                },
+                "type": "statement",
+                "id": "Q43392396$84ABC804-45E3-487D-930C-6F18B930C438",
+                "rank": "normal"
+            }
+        ],
+        "P5008": [
+            {
+                "mainsnak": {
+                    "snaktype": "value",
+                    "property": "P5008",
+                    "datatype": "wikibase-item",
+                    "datavalue": {
+                        "value": {
+                            "entity-type": "item",
+                            "numeric-id": 97293037
+                        },
+                        "type": "wikibase-entityid"
+                    }
+                },
+                "type": "statement",
+                "id": "Q43392396$C66C53A2-5D1F-43E9-BD17-3D14B67FA73C",
+                "rank": "normal"
+            }
+        ],
+        "P734": [
+            {
+                "mainsnak": {
+                    "snaktype": "value",
+                    "property": "P734",
+                    "datatype": "wikibase-item",
+                    "datavalue": {
+                        "value": {
+                            "entity-type": "item",
+                            "numeric-id": 16871005
+                        },
+                        "type": "wikibase-entityid"
+                    }
+                },
+                "type": "statement",
+                "id": "Q43392396$8B550F41-EBE0-414C-8A24-F5785A40C374",
+                "rank": "normal"
+            }
+        ],
+        "P1399": [
+            {
+                "mainsnak": {
+                    "snaktype": "value",
+                    "property": "P1399",
+                    "datatype": "wikibase-item",
+                    "datavalue": {
+                        "value": {
+                            "entity-type": "item",
+                            "numeric-id": 259745
+                        },
+                        "type": "wikibase-entityid"
+                    }
+                },
+                "type": "statement",
+                "id": "Q43392396$531476C6-2140-47A8-B4E4-9D269E407C26",
+                "rank": "normal",
+                "references": [
+                    {
+                        "snaks": {
+                            "P854": [
+                                {
+                                    "snaktype": "value",
+                                    "property": "P854",
+                                    "datatype": "url",
+                                    "datavalue": {
+                                        "value": "https://witches.shca.ed.ac.uk/index.cfm?fuseaction=home.trialrecord&trialref=T/LA/805&search_type=searchaccused&search_string=lastname",
+                                        "type": "string"
+                                    }
+                                }
+                            ]
+                        },
+                        "snaks-order": [
+                            "P854"
+                        ],
+                        "hash": "e98b490fe749f0048bd8bf042eede80cfaceb81d"
+                    }
+                ]
+            }
+        ]
+    }
+}
