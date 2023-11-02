@@ -8,8 +8,14 @@ Strongest witches on earth(Scotland), but executed.
 
 ## Resources
 
+### Official Source
+
 1. Project Site: [Witches](https://witches.is.ed.ac.uk/)
 2. [Download zipfile of CSV files for ArcGIS Online](https://witches.is.ed.ac.uk/resources/ArcGIS%20Online%20Files.zip)
 3. [Spreadsheet of unfound place-names](https://docs.google.com/spreadsheets/d/14W8cWmqTaTgkwTFOjMYzV-BzqJgrGz8dKafmGfeuFPs/edit?usp=sharing)
 4. [Items added to Wikidata word document](https://docs.google.com/document/d/14JcTa6twIjsx69ifoZxVf-VaXR7nFmmQhu52zXUYUD4/edit?usp=sharing)
 5. [Query for accused witches residence map](https://w.wiki/6rX)
+
+### Useful Resources
+
+1. [Extracting Data from Wikidata Using SPARQL and Python](https://itnext.io/extracting-data-from-wikidata-using-sparql-and-python-59e0037996f)
