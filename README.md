@@ -23,6 +23,7 @@ Strongest witches on earth(Scotland), but executed.
 3. https://www.youtube.com/watch?v=sv-38lwV6vc&t=23s 
 
 ### Qs
-1.
+1. 
+
    ![image](https://github.com/SLaDOS/Witches/assets/61532708/ff205088-0990-41c3-afbb-23e5a03b7010)
 2. 
