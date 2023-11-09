@@ -19,3 +19,5 @@ Strongest witches on earth(Scotland), but executed.
 ### Useful Resources
 
 1. [Extracting Data from Wikidata Using SPARQL and Python](https://itnext.io/extracting-data-from-wikidata-using-sparql-and-python-59e0037996f)
+2. https://www.youtube.com/watch?v=wk67eGXtbIw
+3. https://www.youtube.com/watch?v=sv-38lwV6vc&t=23s 
