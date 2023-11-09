@@ -27,4 +27,4 @@ Strongest witches on earth(Scotland), but executed.
 
    ![image](https://github.com/SLaDOS/Witches/assets/61532708/ff205088-0990-41c3-afbb-23e5a03b7010)
 2. What does it mean that the challenges that are marked? <img width="1289" alt="Screenshot 2023-11-09 at 3 31 54 PM" src="https://github.com/SLaDOS/Witches/assets/148451152/1227ba49-fc3d-4beb-b41f-403e99628fe0">
-
+3. The relationships?
