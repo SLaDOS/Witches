@@ -1,0 +1,9 @@
+SELECT DISTINCT ?item ?itemLabel ?point_of_time 
+WHERE {
+  ?item p:P4478 ?statement0.
+  ?statement0 (ps:P4478) _:anyValueP4478.    
+  ?item p:P793 ?statement1.
+  ?statement1 (ps:P793) wd:Q66458810.
+  ?statement1 pq:P585 ?point_of_time.
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE]". }
+}
