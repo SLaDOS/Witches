@@ -4,7 +4,13 @@
 
 Strongest witches on earth(Scotland), but executed.
 
+# WITCHES WITH INVESTIGATION TIME
 
+⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
+
+⭐⭐⭐⭐-https://w.wiki/88Vk -⭐⭐⭐⭐
+
+⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
 
 ## Resources
 
