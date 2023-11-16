@@ -22,6 +22,9 @@ Strongest witches on earth(Scotland), but executed.
 4. [Items added to Wikidata word document](https://docs.google.com/document/d/14JcTa6twIjsx69ifoZxVf-VaXR7nFmmQhu52zXUYUD4/edit?usp=sharing)
 5. [Query for accused witches residence map](https://w.wiki/6rX)
 
+### Typical Witches 
+1. https://www.wikidata.org/wiki/Q43390418
+
 ### Useful Resources
 
 1. [Extracting Data from Wikidata Using SPARQL and Python](https://itnext.io/extracting-data-from-wikidata-using-sparql-and-python-59e0037996f)
