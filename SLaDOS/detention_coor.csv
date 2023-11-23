@@ -1,0 +1,688 @@
+item,witch,itemLabel,place_of_detentionLabel,place_of_detention_coordinate,genderLabel,occupationLabel,chargeLabel,classLabel,ethnicLabel,mdeathLabel,cdeathLabel,deathlocLabel,detainLabel
+http://www.wikidata.org/entity/Q43390486,A/EGD/1826,Catharin Walker,Brechin,Point(-2.655277777 56.73),female,,,,,,,,Brechin
+http://www.wikidata.org/entity/Q43390861,A/EGD/2517,Marjorie (Marion) Durie,Inverkeithing,Point(-3.383333333 56.033333333),female,,,middling,,,,,Inverkeithing
+http://www.wikidata.org/entity/Q43390861,A/EGD/2517,Marjorie (Marion) Durie,Burntisland,Point(-3.2325 56.059444444),female,,,middling,,,,,Inverkeithing
+http://www.wikidata.org/entity/Q43390861,A/EGD/2517,Marjorie (Marion) Durie,Inverkeithing,Point(-3.383333333 56.033333333),female,,,middling,,,,,Burntisland
+http://www.wikidata.org/entity/Q43390861,A/EGD/2517,Marjorie (Marion) Durie,Burntisland,Point(-3.2325 56.059444444),female,,,middling,,,,,Burntisland
+http://www.wikidata.org/entity/Q43390895,A/EGD/288,Kathrin Black,Stirling,Point(-3.9369 56.1166),female,,,,,,,,Stirling
+http://www.wikidata.org/entity/Q43390895,A/EGD/288,Kathrin Black,Alloa,Point(-3.7912 56.1155),female,,,,,,,,Stirling
+http://www.wikidata.org/entity/Q43390895,A/EGD/288,Kathrin Black,Stirling,Point(-3.9369 56.1166),female,,,,,,,,Alloa
+http://www.wikidata.org/entity/Q43390895,A/EGD/288,Kathrin Black,Alloa,Point(-3.7912 56.1155),female,,,,,,,,Alloa
+http://www.wikidata.org/entity/Q43393779,A/EGD/1832,Marioun Twedy,Peebles,Point(-3.188888888 55.651944444),female,,,,,,,,Peebles
+http://www.wikidata.org/entity/Q43394021,A/EGD/2040,Helen Andrew,Thurso,Point(-3.521111111 58.596111111),female,,,,,,,,Thurso
+http://www.wikidata.org/entity/Q43394326,A/EGD/2294,Janat Cuj,Elgin,Point(-3.315277777 57.646388888),female,,,,,,,,Elgin
+http://www.wikidata.org/entity/Q43394784,A/EGD/2514,Bessie Mortoun,Dunfermline,Point(-3.461666666 56.071388888),female,,,,,,,,Dunfermline
+http://www.wikidata.org/entity/Q43394786,A/EGD/2516,Beatrix Douglas,Inverkeithing,Point(-3.383333333 56.033333333),female,,,,,,,,Inverkeithing
+http://www.wikidata.org/entity/Q43394957,A/EGD/389,Jonet Miller,Edinburgh,Point(-3.189166666 55.953333333),female,,,,,,,,Edinburgh
+http://www.wikidata.org/entity/Q43394966,A/EGD/396,Margaret Grieve,Edinburgh,Point(-3.189166666 55.953333333),female,,,,,,,,Edinburgh
+http://www.wikidata.org/entity/Q43394991,A/EGD/424,James Welch,Edinburgh,Point(-3.189166666 55.953333333),male,,,pauper,,,,,Edinburgh
+http://www.wikidata.org/entity/Q43394991,A/EGD/424,James Welch,Haddington,Point(-2.78332 55.95612),male,,,pauper,,,,,Edinburgh
+http://www.wikidata.org/entity/Q43394991,A/EGD/424,James Welch,Edinburgh,Point(-3.189166666 55.953333333),male,,,pauper,,,,,Haddington
+http://www.wikidata.org/entity/Q43394991,A/EGD/424,James Welch,Haddington,Point(-2.78332 55.95612),male,,,pauper,,,,,Haddington
+http://www.wikidata.org/entity/Q43390167,A/EGD/1248,Christian Paterson,Haddington,Point(-2.78332 55.95612),female,,,,,capital punishment,,,Haddington
+http://www.wikidata.org/entity/Q43390200,A/EGD/1277,Thomas Rob,Perth,Point(-3.433333333 56.395833333),male,,,,,capital punishment,,,Perth
+http://www.wikidata.org/entity/Q43390418,A/EGD/162,Elizabeth Bathgate,Edinburgh,Point(-3.189166666 55.953333333),female,,,middling,,,,,Edinburgh
+http://www.wikidata.org/entity/Q43390418,A/EGD/162,Elizabeth Bathgate,Duns,Point(-2.3426 55.7784),female,,,middling,,,,,Edinburgh
+http://www.wikidata.org/entity/Q43390418,A/EGD/162,Elizabeth Bathgate,Edinburgh,Point(-3.189166666 55.953333333),female,,,middling,,,,,Duns
+http://www.wikidata.org/entity/Q43390418,A/EGD/162,Elizabeth Bathgate,Duns,Point(-2.3426 55.7784),female,,,middling,,,,,Duns
+http://www.wikidata.org/entity/Q43390435,A/EGD/1714,Margaret Dury,Aberdeen,Point(-2.1 57.15),female,,,middling,,,,,Aberdeen
+http://www.wikidata.org/entity/Q43392224,A/EGD/1283,Mary Cunningham,Culross,Point(-3.6293 56.0554),female,,,,,,,,Culross
+http://www.wikidata.org/entity/Q43392224,A/EGD/1283,Mary Cunningham,Canongate,Point(-3.1793 55.9517),female,,,,,,,,Culross
+http://www.wikidata.org/entity/Q43392224,A/EGD/1283,Mary Cunningham,Culross,Point(-3.6293 56.0554),female,,,,,,,,Canongate
+http://www.wikidata.org/entity/Q43392224,A/EGD/1283,Mary Cunningham,Canongate,Point(-3.1793 55.9517),female,,,,,,,,Canongate
+http://www.wikidata.org/entity/Q43392258,A/EGD/1746,Katharine Liddell,Prestonpans,Point(-2.961 55.9597),female,,,,,,,,Prestonpans
+http://www.wikidata.org/entity/Q43392917,A/EGD/126,James Reid,Haddington,Point(-2.78332 55.95612),male,servant,,,,capital punishment,,Castle Hill,Haddington
+http://www.wikidata.org/entity/Q43392986,A/EGD/1317,Issobell Broune,Eyemouth,Point(-2.090555555 55.869444444),female,,,,,,,,Eyemouth
+http://www.wikidata.org/entity/Q43393008,A/EGD/1331,Elizabeth Lawsone,Haddington,Point(-2.78332 55.95612),female,,,,,,,,Haddington
+http://www.wikidata.org/entity/Q43393029,A/EGD/1342,Elspeth Baillie,Haddington,Point(-2.78332 55.95612),female,,,,,,,,Haddington
+http://www.wikidata.org/entity/Q43393522,A/EGD/1567,Cristian Neil Ferquhar Vic Ean Baik McNish,Comar,Point(-4.770844 57.341849),female,,,,,,,,Comar
+http://www.wikidata.org/entity/Q43393590,A/EGD/1605,Bessie Johnstone,Humbie,Point(-2.86735 55.8544),female,,,,,,,,Humbie
+http://www.wikidata.org/entity/Q43393761,A/EGD/168,Johnne Brughe,Edinburgh,Point(-3.189166666 55.953333333),male,healer,,,,capital punishment,,Castle Hill,Edinburgh
+http://www.wikidata.org/entity/Q43393815,A/EGD/1699,Mary Rynd,Forfar,Point(-2.89 56.643055555),female,,,,,,,,Forfar
+http://www.wikidata.org/entity/Q43393822,A/EGD/1702,Elspeth Guild,Torryburn,Point(-3.55 56.05),female,,,,,,,,Torryburn
+http://www.wikidata.org/entity/Q43393834,A/EGD/1869,Geilles Robertsone,Crail,Point(-2.6263 56.2608),female,,,,,,,,Crail
+http://www.wikidata.org/entity/Q43393905,A/EGD/1748,Bessie Bell,Loanhead,Point(-3.14827 55.8778),female,,,,,,,,Loanhead
+http://www.wikidata.org/entity/Q43393917,A/EGD/1752,Margaret Dougall,Ayr,Point(-4.627777777 55.463888888),female,,,,,,,,Ayr
+http://www.wikidata.org/entity/Q43393922,A/EGD/1757,Margaret Fulton,Paisley,Point(-4.423888888 55.845555555),female,,,middling,,capital punishment,,Gallows Green,Paisley
+http://www.wikidata.org/entity/Q43393935,A/EGD/1764,John Lindsay,Glasgow,Point(-4.25 55.861111111),male,,,,,capital punishment,,Gallows Green,Glasgow
+http://www.wikidata.org/entity/Q43393935,A/EGD/1764,John Lindsay,Paisley,Point(-4.423888888 55.845555555),male,,,,,capital punishment,,Gallows Green,Glasgow
+http://www.wikidata.org/entity/Q43393935,A/EGD/1764,John Lindsay,Renfrew,Point(-4.366666666 55.866666666),male,,,,,capital punishment,,Gallows Green,Glasgow
+http://www.wikidata.org/entity/Q43393935,A/EGD/1764,John Lindsay,Glasgow,Point(-4.25 55.861111111),male,,,,,capital punishment,,Gallows Green,Paisley
+http://www.wikidata.org/entity/Q43393935,A/EGD/1764,John Lindsay,Paisley,Point(-4.423888888 55.845555555),male,,,,,capital punishment,,Gallows Green,Paisley
+http://www.wikidata.org/entity/Q43393935,A/EGD/1764,John Lindsay,Renfrew,Point(-4.366666666 55.866666666),male,,,,,capital punishment,,Gallows Green,Paisley
+http://www.wikidata.org/entity/Q43393935,A/EGD/1764,John Lindsay,Glasgow,Point(-4.25 55.861111111),male,,,,,capital punishment,,Gallows Green,Renfrew
+http://www.wikidata.org/entity/Q43393935,A/EGD/1764,John Lindsay,Paisley,Point(-4.423888888 55.845555555),male,,,,,capital punishment,,Gallows Green,Renfrew
+http://www.wikidata.org/entity/Q43393935,A/EGD/1764,John Lindsay,Renfrew,Point(-4.366666666 55.866666666),male,,,,,capital punishment,,Gallows Green,Renfrew
+http://www.wikidata.org/entity/Q43390127,A/EGD/1194,Janet Beverage,Dysart,Point(-3.12538 56.12557),female,,,middling,,,,,Dysart
+http://www.wikidata.org/entity/Q43390236,A/EGD/1312,Issobell Murray,Haddington,Point(-2.78332 55.95612),female,,,middling,,,,,Haddington
+http://www.wikidata.org/entity/Q43392518,A/EGD/10,Mareon Quheitt,Haddington,Point(-2.78332 55.95612),female,,,,,,,,Haddington
+http://www.wikidata.org/entity/Q43392678,A/EGD/11,Margaret Bartilman,Haddington,Point(-2.78332 55.95612),female,,,,,,,,Haddington
+http://www.wikidata.org/entity/Q43392726,A/EGD/1125,Agnes Sinclare,Haddington,Point(-2.78332 55.95612),female,,,,,,,,Haddington
+http://www.wikidata.org/entity/Q43392736,A/EGD/1129,Margaret Mitchell,Haddington,Point(-2.78332 55.95612),female,,,,,,,,Haddington
+http://www.wikidata.org/entity/Q43392742,A/EGD/1130,Alesoun Carrick,Haddington,Point(-2.78332 55.95612),female,,,,,,,,Haddington
+http://www.wikidata.org/entity/Q43392867,A/EGD/1219,Bessie Mitchell,Crichton,Point(-2.98249 55.8471),female,,,,,,,,Crichton
+http://www.wikidata.org/entity/Q43392902,A/EGD/1242,Agnes Boyd,Edinburgh,Point(-3.189166666 55.953333333),female,,,,,,,,Edinburgh
+http://www.wikidata.org/entity/Q43393006,A/EGD/1330,Jonet Murray,Burntisland,Point(-3.2325 56.059444444),female,,,,,,,,Burntisland
+http://www.wikidata.org/entity/Q43393156,A/EGD/1406,Issobell McKessock,Rhynd,Point(-3.36614 56.3648),female,,,middling,,capital punishment,,,Rhynd
+http://www.wikidata.org/entity/Q43393430,A/EGD/1519,Margaret NcLevin,Rothesay,Point(-5.055 55.836388888),female,,,,,,,,Rothesay
+http://www.wikidata.org/entity/Q43390222,A/EGD/1293,Margaret Thomsone,Mid Calder,Point(-3.481 55.8918),female,,,,,,,,Mid Calder
+http://www.wikidata.org/entity/Q43390453,A/EGD/173,Helene Clerk,Edinburgh,Point(-3.189166666 55.953333333),female,,,working poor,,,,,Edinburgh
+http://www.wikidata.org/entity/Q43390468,A/EGD/1760,Margaret Lang,Glasgow,Point(-4.25 55.861111111),female,,,,,capital punishment,,Gallows Green,Glasgow
+http://www.wikidata.org/entity/Q43390468,A/EGD/1760,Margaret Lang,Renfrew,Point(-4.366666666 55.866666666),female,,,,,capital punishment,,Gallows Green,Glasgow
+http://www.wikidata.org/entity/Q43390468,A/EGD/1760,Margaret Lang,Glasgow,Point(-4.25 55.861111111),female,,,,,capital punishment,,Gallows Green,Renfrew
+http://www.wikidata.org/entity/Q43390468,A/EGD/1760,Margaret Lang,Renfrew,Point(-4.366666666 55.866666666),female,,,,,capital punishment,,Gallows Green,Renfrew
+http://www.wikidata.org/entity/Q43392244,A/EGD/1713,Issobell Spens,Aberdeen,Point(-2.1 57.15),female,,,middling,,,,,Aberdeen
+http://www.wikidata.org/entity/Q43392733,A/EGD/1128,Bessie Duncan,Haddington,Point(-2.78332 55.95612),female,,,,,,,,Haddington
+http://www.wikidata.org/entity/Q43392830,A/EGD/1191,Janet Patersoun,Cousland,Point(-2.995274 55.904962),female,,,,,,,,Cousland
+http://www.wikidata.org/entity/Q43392904,A/EGD/1243,George Sempill,Glasgow,Point(-4.25 55.861111111),male,Christian minister,,middling,,,,,Glasgow
+http://www.wikidata.org/entity/Q43392940,A/EGD/1279,Jean Rob,Perth,Point(-3.433333333 56.395833333),female,,,,,capital punishment,,,Perth
+http://www.wikidata.org/entity/Q43392963,A/EGD/1297,Margaret Reid,Lanark,Point(-3.77702 55.6749),female,,,,,,,,Lanark
+http://www.wikidata.org/entity/Q43392966,A/EGD/1303,Helen Lausone,Haddington,Point(-2.78332 55.95612),female,,,,,,,,Haddington
+http://www.wikidata.org/entity/Q43393121,A/EGD/1392,Adam Robertson,Duns,Point(-2.3426 55.7784),male,maltman,,middling,,,,,Duns
+http://www.wikidata.org/entity/Q43393121,A/EGD/1392,Adam Robertson,Eyemouth,Point(-2.090555555 55.869444444),male,maltman,,middling,,,,,Duns
+http://www.wikidata.org/entity/Q43393121,A/EGD/1392,Adam Robertson,Duns,Point(-2.3426 55.7784),male,maltman,,middling,,,,,Eyemouth
+http://www.wikidata.org/entity/Q43393121,A/EGD/1392,Adam Robertson,Eyemouth,Point(-2.090555555 55.869444444),male,maltman,,middling,,,,,Eyemouth
+http://www.wikidata.org/entity/Q43393197,A/EGD/1421,Agnes Broune,Haddington,Point(-2.78332 55.95612),female,,,,,,,,Haddington
+http://www.wikidata.org/entity/Q43393301,A/EGD/1463,Kathrin Bowar,Rhynd,Point(-3.36614 56.3648),female,,,,,,,,Rhynd
+http://www.wikidata.org/entity/Q43393420,A/EGD/1513,Issobell NcNicol,Isle of Bute,Point(-5.05636 55.83569),female,,,,,,,,Isle of Bute
+http://www.wikidata.org/entity/Q43393682,A/EGD/1767,Mary Millar,Kirkcudbright,Point(-4.051666666 54.835277777),female,,,,,,,,Kirkcudbright
+http://www.wikidata.org/entity/Q43393729,A/EGD/1795,Marion Moffat,Lanark,Point(-3.77702 55.6749),female,,,,,,,,Lanark
+http://www.wikidata.org/entity/Q43393812,A/EGD/1698,Helen Alexander,Forfar,Point(-2.89 56.643055555),female,,,,,,,,Forfar
+http://www.wikidata.org/entity/Q43393863,A/EGD/1723,Suna Voe,Scalloway,Point(-1.275 60.137),female,,,,,,,,Scalloway
+http://www.wikidata.org/entity/Q43393879,A/EGD/1736,Issobell Laing,Dumbarton,Point(-4.547222222 55.948611111),female,,,,,,,,Dumbarton
+http://www.wikidata.org/entity/Q43393881,A/EGD/1737,Christian Donald,Dumbarton,Point(-4.547222222 55.948611111),female,,,,,,,,Dumbarton
+http://www.wikidata.org/entity/Q43393886,A/EGD/1739,Mary Mitchell,Edinburgh,Point(-3.189166666 55.953333333),female,,,,,,,,Edinburgh
+http://www.wikidata.org/entity/Q43393886,A/EGD/1739,Mary Mitchell,Stirling,Point(-3.9369 56.1166),female,,,,,,,,Edinburgh
+http://www.wikidata.org/entity/Q43393886,A/EGD/1739,Mary Mitchell,Edinburgh,Point(-3.189166666 55.953333333),female,,,,,,,,Stirling
+http://www.wikidata.org/entity/Q43393886,A/EGD/1739,Mary Mitchell,Stirling,Point(-3.9369 56.1166),female,,,,,,,,Stirling
+http://www.wikidata.org/entity/Q43393889,A/EGD/1740,John Gray,Stirling,Point(-3.9369 56.1166),male,,,,,,,,Stirling
+http://www.wikidata.org/entity/Q43393895,A/EGD/1742,Thomas Mitchell,Edinburgh,Point(-3.189166666 55.953333333),male,,,,,,,,Edinburgh
+http://www.wikidata.org/entity/Q43393895,A/EGD/1742,Thomas Mitchell,Stirling,Point(-3.9369 56.1166),male,,,,,,,,Edinburgh
+http://www.wikidata.org/entity/Q43393895,A/EGD/1742,Thomas Mitchell,Edinburgh,Point(-3.189166666 55.953333333),male,,,,,,,,Stirling
+http://www.wikidata.org/entity/Q43393895,A/EGD/1742,Thomas Mitchell,Stirling,Point(-3.9369 56.1166),male,,,,,,,,Stirling
+http://www.wikidata.org/entity/Q43390101,A/EGD/1154,Alisoun Pringill,Duns,Point(-2.3426 55.7784),female,,,,,,,,Duns
+http://www.wikidata.org/entity/Q43390172,A/EGD/1254,Janet Love,Renfrew,Point(-4.366666666 55.866666666),female,,,,,,,,Renfrew
+http://www.wikidata.org/entity/Q43390172,A/EGD/1254,Janet Love,Inverkip,Point(-4.8735 55.912),female,,,,,,,,Renfrew
+http://www.wikidata.org/entity/Q43390172,A/EGD/1254,Janet Love,Renfrew,Point(-4.366666666 55.866666666),female,,,,,,,,Inverkip
+http://www.wikidata.org/entity/Q43390172,A/EGD/1254,Janet Love,Inverkip,Point(-4.8735 55.912),female,,,,,,,,Inverkip
+http://www.wikidata.org/entity/Q43390208,A/EGD/1287,Margaret Young,North Queensferry,Point(-3.394166666 56.011111111),female,,,middling,,,,,North Queensferry
+http://www.wikidata.org/entity/Q43390208,A/EGD/1287,Margaret Young,Dysart,Point(-3.12538 56.12557),female,,,middling,,,,,North Queensferry
+http://www.wikidata.org/entity/Q43390208,A/EGD/1287,Margaret Young,North Queensferry,Point(-3.394166666 56.011111111),female,,,middling,,,,,Dysart
+http://www.wikidata.org/entity/Q43390208,A/EGD/1287,Margaret Young,Dysart,Point(-3.12538 56.12557),female,,,middling,,,,,Dysart
+http://www.wikidata.org/entity/Q43390247,A/EGD/1323,Grissell Anderson,Torryburn,Point(-3.55 56.05),female,,,,,,,,Torryburn
+http://www.wikidata.org/entity/Q43390421,A/EGD/1658,Jonet McClean,Comar,Point(-4.770844 57.341849),female,,,,,,,,Comar
+http://www.wikidata.org/entity/Q43390443,A/EGD/1728,Bessie Weir,Paisley,Point(-4.423888888 55.845555555),female,,,,,capital punishment,,Gallows Green,Paisley
+http://www.wikidata.org/entity/Q43392128,A/EGD/1731,Jon Stewart,Paisley,Point(-4.423888888 55.845555555),male,,,middling,,capital punishment,,Gallows Green,Paisley
+http://www.wikidata.org/entity/Q43392809,A/EGD/118,Cristian Stewart,Edinburgh,Point(-3.189166666 55.953333333),female,vagrant,,pauper,,capital punishment,,,Edinburgh
+http://www.wikidata.org/entity/Q43392836,A/EGD/12,Jonet Carfrae,Haddington,Point(-2.78332 55.95612),female,,,,,,,,Haddington
+http://www.wikidata.org/entity/Q43392911,A/EGD/1252,Helene Hamiltoun,Leith,Point(-3.17005 55.9801),female,,,,,,,,Leith
+http://www.wikidata.org/entity/Q43393066,A/EGD/1365,Isobell (Elspeth) Crockett,Stirling,Point(-3.9369 56.1166),female,,,,,,,,Stirling
+http://www.wikidata.org/entity/Q43393482,A/EGD/1548,Elizabeth Guthrie,Montrose,Point(-2.467 56.708),female,,,middling,,,,,Montrose
+http://www.wikidata.org/entity/Q43393482,A/EGD/1548,Elizabeth Guthrie,Forfar,Point(-2.89 56.643055555),female,,,middling,,,,,Montrose
+http://www.wikidata.org/entity/Q43393482,A/EGD/1548,Elizabeth Guthrie,Montrose,Point(-2.467 56.708),female,,,middling,,,,,Forfar
+http://www.wikidata.org/entity/Q43393482,A/EGD/1548,Elizabeth Guthrie,Forfar,Point(-2.89 56.643055555),female,,,middling,,,,,Forfar
+http://www.wikidata.org/entity/Q43393607,A/EGD/1611,Margaret Murray,Humbie,Point(-2.86735 55.8544),female,,,,,,,,Humbie
+http://www.wikidata.org/entity/Q43393612,A/EGD/1614,Bessie Scott,Corstorphine,Point(-3.28544 55.9429),female,,,working poor,,,,,Corstorphine
+http://www.wikidata.org/entity/Q43393697,A/EGD/1651,Kathrin Ninian Ear Vic Ean Culleam,Comar,Point(-4.770844 57.341849),female,,,,,,,,Comar
+http://www.wikidata.org/entity/Q43393702,A/EGD/1653,Mary Nein Goune Baike,Comar,Point(-4.770844 57.341849),female,,,,,,,,Comar
+http://www.wikidata.org/entity/Q43393829,A/EGD/1705,Grissell Anderson,Torryburn,Point(-3.564398288 56.057636906),female,,,,,,,,Torryburn
+http://www.wikidata.org/entity/Q43393833,A/EGD/1706,Margret Horne,Torryburn,Point(-3.55 56.05),female,,,,,,,,Torryburn
+http://www.wikidata.org/entity/Q43393835,A/EGD/1707,Cristian May,Torryburn,Point(-3.55 56.05),female,,,,,,,,Torryburn
+http://www.wikidata.org/entity/Q43393848,A/EGD/1716,Margaret Neill Vayne,Castle Tioram,Point(-5.829071903 56.784552181),female,,,,,,,,Castle Tioram
+http://www.wikidata.org/entity/Q43393874,A/EGD/1734,Jonet Mun,Dumbarton,Point(-4.547222222 55.948611111),female,,,,,,,,Dumbarton
+http://www.wikidata.org/entity/Q43393897,A/EGD/1743,Marion Phin,Haddington,Point(-2.78332 55.95612),female,,,middling,,,,,Haddington
+http://www.wikidata.org/entity/Q43393900,A/EGD/1744,Marjorie Anderson,Prestonpans,Point(-2.961 55.9597),female,servant,,working poor,,,,,Prestonpans
+http://www.wikidata.org/entity/Q43391864,A/LA/2837,Annabel Reid,Renfrew,Point(-4.366666666 55.866666666),female,,,,,,,,Renfrew
+http://www.wikidata.org/entity/Q43392523,A/EGD/1002,Agnes Hendersoun,Stirling,Point(-3.9369 56.1166),female,,,,,,,,Stirling
+http://www.wikidata.org/entity/Q43392546,A/EGD/1014,Bessie Wright,Perth,Point(-3.433333333 56.395833333),female,,,middling,,,,,Perth
+http://www.wikidata.org/entity/Q43392596,A/EGD/1046,Margaret Jo,Musselburgh,Point(-3.054166666 55.941944444),female,,,,,,,,Musselburgh
+http://www.wikidata.org/entity/Q43395753,A/JO/3086,Jonet Morisone,Rothesay,Point(-5.055 55.836388888),female,,,,,,,,Rothesay
+http://www.wikidata.org/entity/Q43395813,A/LA/2548,Andro Tailyeor,Brechin,Point(-2.655277777 56.73),male,,,,,,,,Brechin
+http://www.wikidata.org/entity/Q65464979,A/LA/2845,John Stewart,Renfrew,Point(-4.366666666 55.866666666),male,,,,,,,,Renfrew
+http://www.wikidata.org/entity/Q43390397,A/EGD/1599,Margaret Allane,Cousland,Point(-2.995274 55.904962),female,,,,,,,,Cousland
+http://www.wikidata.org/entity/Q43390766,A/EGD/2272,Helen Hill,North Queensferry,Point(-3.394166666 56.011111111),female,,,middling,,capital punishment,,,North Queensferry
+http://www.wikidata.org/entity/Q43391000,A/EGD/398,Janet Cock,Edinburgh,Point(-3.189166666 55.953333333),female,,,,,capital punishment,,,Edinburgh
+http://www.wikidata.org/entity/Q43391026,A/EGD/423,Agnes Williamsone,Edinburgh,Point(-3.189166666 55.953333333),female,,,,,,,,Edinburgh
+http://www.wikidata.org/entity/Q43391026,A/EGD/423,Agnes Williamsone,Haddington,Point(-2.78332 55.95612),female,,,,,,,,Edinburgh
+http://www.wikidata.org/entity/Q43391026,A/EGD/423,Agnes Williamsone,Edinburgh,Point(-3.189166666 55.953333333),female,,,,,,,,Haddington
+http://www.wikidata.org/entity/Q43391026,A/EGD/423,Agnes Williamsone,Haddington,Point(-2.78332 55.95612),female,,,,,,,,Haddington
+http://www.wikidata.org/entity/Q43391271,A/EGD/562,Barbara Drummond,Edinburgh,Point(-3.189166666 55.953333333),female,,,,,,,,Edinburgh
+http://www.wikidata.org/entity/Q43391271,A/EGD/562,Barbara Drummond,Stirling,Point(-3.9369 56.1166),female,,,,,,,,Edinburgh
+http://www.wikidata.org/entity/Q43391271,A/EGD/562,Barbara Drummond,Dunblane,Point(-3.973611111 56.188888888),female,,,,,,,,Edinburgh
+http://www.wikidata.org/entity/Q43391271,A/EGD/562,Barbara Drummond,Edinburgh,Point(-3.189166666 55.953333333),female,,,,,,,,Stirling
+http://www.wikidata.org/entity/Q43391271,A/EGD/562,Barbara Drummond,Stirling,Point(-3.9369 56.1166),female,,,,,,,,Stirling
+http://www.wikidata.org/entity/Q43391271,A/EGD/562,Barbara Drummond,Dunblane,Point(-3.973611111 56.188888888),female,,,,,,,,Stirling
+http://www.wikidata.org/entity/Q43391271,A/EGD/562,Barbara Drummond,Edinburgh,Point(-3.189166666 55.953333333),female,,,,,,,,Dunblane
+http://www.wikidata.org/entity/Q43391271,A/EGD/562,Barbara Drummond,Stirling,Point(-3.9369 56.1166),female,,,,,,,,Dunblane
+http://www.wikidata.org/entity/Q43391271,A/EGD/562,Barbara Drummond,Dunblane,Point(-3.973611111 56.188888888),female,,,,,,,,Dunblane
+http://www.wikidata.org/entity/Q43391281,A/EGD/590,Grissell Rae,Kirkcudbright,Point(-4.051666666 54.835277777),female,,,,,,,,Kirkcudbright
+http://www.wikidata.org/entity/Q43391381,A/EGD/691,Elizabeth Hutcheson,Edinburgh,Point(-3.189166666 55.953333333),female,,,middling,,,,,Edinburgh
+http://www.wikidata.org/entity/Q43391586,A/EGD/901,Katherine Rannald,Linlithgow,Point(-3.610555555 55.975277777),female,,,,,,,,Linlithgow
+http://www.wikidata.org/entity/Q43391590,A/EGD/903,Janet Robertsone,St Colme House,Point(-3.31373 56.0443),female,,,working poor,,,,,St Colme House
+http://www.wikidata.org/entity/Q43392256,A/EGD/1745,Agnes Kelly,Prestonpans,Point(-2.961 55.9597),female,,,,,,,,Prestonpans
+http://www.wikidata.org/entity/Q43392272,A/EGD/1881,Annaple Thomson,Bo'ness,Point(-3.608911111 56.016811111),female,,,,,,,,Bo'ness
+http://www.wikidata.org/entity/Q43392443,A/EGD/826,Margaret Stewart,Dunkeld,Point(-3.586 56.5661),female,,,,,,,,Dunkeld
+http://www.wikidata.org/entity/Q43393484,A/EGD/1549,Margaret Guthrie,Montrose,Point(-2.467 56.708),female,,,middling,,,,,Montrose
+http://www.wikidata.org/entity/Q43393484,A/EGD/1549,Margaret Guthrie,Anstruther,Point(-2.70274 56.2234),female,,,middling,,,,,Montrose
+http://www.wikidata.org/entity/Q43393484,A/EGD/1549,Margaret Guthrie,Forfar,Point(-2.89 56.643055555),female,,,middling,,,,,Montrose
+http://www.wikidata.org/entity/Q43393484,A/EGD/1549,Margaret Guthrie,Montrose,Point(-2.467 56.708),female,,,middling,,,,,Anstruther
+http://www.wikidata.org/entity/Q43393484,A/EGD/1549,Margaret Guthrie,Anstruther,Point(-2.70274 56.2234),female,,,middling,,,,,Anstruther
+http://www.wikidata.org/entity/Q43393484,A/EGD/1549,Margaret Guthrie,Forfar,Point(-2.89 56.643055555),female,,,middling,,,,,Anstruther
+http://www.wikidata.org/entity/Q43393484,A/EGD/1549,Margaret Guthrie,Montrose,Point(-2.467 56.708),female,,,middling,,,,,Forfar
+http://www.wikidata.org/entity/Q43393484,A/EGD/1549,Margaret Guthrie,Anstruther,Point(-2.70274 56.2234),female,,,middling,,,,,Forfar
+http://www.wikidata.org/entity/Q43393484,A/EGD/1549,Margaret Guthrie,Forfar,Point(-2.89 56.643055555),female,,,middling,,,,,Forfar
+http://www.wikidata.org/entity/Q43393692,A/EGD/1649,Mary McFinley Vic Comes,Comar,Point(-4.770844 57.341849),female,,,,,,,,Comar
+http://www.wikidata.org/entity/Q43393709,A/EGD/1656,Mary Dollour,Comar,Point(-4.770844 57.341849),female,,,,,,,,Comar
+http://www.wikidata.org/entity/Q43393711,A/EGD/1785,Margaret Hendirsoun,Edinburgh,Point(-3.189166666 55.953333333),female,,,nobility,,,,,Edinburgh
+http://www.wikidata.org/entity/Q43393737,A/EGD/1801,Agneis Kirkland,Tyninghame,Point(-2.62638889 56.00277778),female,,,,,capital punishment,,Haddington,Tyninghame
+http://www.wikidata.org/entity/Q43393824,A/EGD/1703,Issobell Key,St Andrews,Point(-2.798888888 56.338888888),female,,,,,,,,St Andrews
+http://www.wikidata.org/entity/Q43393930,A/EGD/1762,John Reid,Paisley,Point(-4.423888888 55.845555555),male,metalsmith,,middling,,,,,Paisley
+http://www.wikidata.org/entity/Q43393930,A/EGD/1762,John Reid,Renfrew,Point(-4.366666666 55.866666666),male,metalsmith,,middling,,,,,Paisley
+http://www.wikidata.org/entity/Q43393930,A/EGD/1762,John Reid,Paisley,Point(-4.423888888 55.845555555),male,metalsmith,,middling,,,,,Renfrew
+http://www.wikidata.org/entity/Q43393930,A/EGD/1762,John Reid,Renfrew,Point(-4.366666666 55.866666666),male,metalsmith,,middling,,,,,Renfrew
+http://www.wikidata.org/entity/Q43394075,A/EGD/2117,Andro Man,Aberdeen,Point(-2.1 57.15),male,,,,,,,,Aberdeen
+http://www.wikidata.org/entity/Q43394076,A/EGD/2119,Jonat Leisk,Aberdeen,Point(-2.1 57.15),female,,,middling,,,,,Aberdeen
+http://www.wikidata.org/entity/Q43394168,A/EGD/2207,Janet Durie,Wemyss,Point(-3.069636918 56.16563481),female,,,,,,,,Wemyss
+http://www.wikidata.org/entity/Q43394278,A/EGD/2273,Helen Thomson,North Queensferry,Point(-3.394166666 56.011111111),female,,,,,capital punishment,,,North Queensferry
+http://www.wikidata.org/entity/Q43394355,A/EGD/2304,Margaret Bell,Corstorphine,Point(-3.28544 55.9429),female,,,,,capital punishment,,Corstorphine,Corstorphine
+http://www.wikidata.org/entity/Q43394399,A/EGD/2313,Jonet Loudoun,Renfrew,Point(-4.366666666 55.866666666),female,,,,,,,,Renfrew
+http://www.wikidata.org/entity/Q43394566,A/EGD/2385,M'huistan,Thurso,Point(-3.521111111 58.596111111),,,,,,,,,Thurso
+http://www.wikidata.org/entity/Q43394868,A/EGD/300,Marion Angus,Edinburgh,Point(-3.189166666 55.953333333),female,,,,,,,,Edinburgh
+http://www.wikidata.org/entity/Q43394868,A/EGD/300,Marion Angus,Dunbar,Point(-2.522777777 55.998333333),female,,,,,,,,Edinburgh
+http://www.wikidata.org/entity/Q43394868,A/EGD/300,Marion Angus,Edinburgh,Point(-3.189166666 55.953333333),female,,,,,,,,Dunbar
+http://www.wikidata.org/entity/Q43394868,A/EGD/300,Marion Angus,Dunbar,Point(-2.522777777 55.998333333),female,,,,,,,,Dunbar
+http://www.wikidata.org/entity/Q43394919,A/EGD/352,Jean Brown,Edinburgh,Point(-3.189166666 55.953333333),female,,,,,,,,Edinburgh
+http://www.wikidata.org/entity/Q43394932,A/EGD/367,Marion Greinlaw,Musselburgh,Point(-3.054166666 55.941944444),female,,,,,,,,Musselburgh
+http://www.wikidata.org/entity/Q43394938,A/EGD/372,Christiane Wilsone,Dalkeith,Point(-3.068332 55.893642),female,,,,,capital punishment,,Dalkeith,Dalkeith
+http://www.wikidata.org/entity/Q43394938,A/EGD/372,Christiane Wilsone,Niddrie,Point(-3.11444 55.9319),female,,,,,capital punishment,,Dalkeith,Dalkeith
+http://www.wikidata.org/entity/Q43394938,A/EGD/372,Christiane Wilsone,Dalkeith,Point(-3.068332 55.893642),female,,,,,capital punishment,,Dalkeith,Niddrie
+http://www.wikidata.org/entity/Q43394938,A/EGD/372,Christiane Wilsone,Niddrie,Point(-3.11444 55.9319),female,,,,,capital punishment,,Dalkeith,Niddrie
+http://www.wikidata.org/entity/Q43395110,A/EGD/602,Margaret Douglas,Edinburgh,Point(-3.189166666 55.953333333),female,,,,,capital punishment,,Gallow Lea,Edinburgh
+http://www.wikidata.org/entity/Q43395280,A/EGD/847,Janet Campbell,Perth,Point(-3.433333333 56.395833333),female,,,,,,,,Perth
+http://www.wikidata.org/entity/Q43395301,A/EGD/876,John Stewart,Irvine,Point(-4.661111111 55.619444444),male,vagrant,,vagrant,,,,,Irvine
+http://www.wikidata.org/entity/Q43395308,A/EGD/881,Margaret Kennedy,Linlithgow,Point(-3.610555555 55.975277777),female,,,,,,,,Linlithgow
+http://www.wikidata.org/entity/Q43395319,A/EGD/891,Christiane Couper,Culross,Point(-3.6293 56.0554),female,,,,,,,,Culross
+http://www.wikidata.org/entity/Q43390204,A/EGD/1278,Agnes Stoddart,Perth,Point(-3.433333333 56.395833333),female,,,,,capital punishment,,,Perth
+http://www.wikidata.org/entity/Q43390686,A/EGD/2118,Gilbert Fidlar,Old Slains Castle,Point(-1.91308 57.3605),male,,,,,,,,Old Slains Castle
+http://www.wikidata.org/entity/Q43390950,A/EGD/334,Jonet Thomson,Edinburgh,Point(-3.189166666 55.953333333),female,,,middling,,,,,Edinburgh
+http://www.wikidata.org/entity/Q43390950,A/EGD/334,Jonet Thomson,Tranent,Point(-2.95417 55.9447),female,,,middling,,,,,Edinburgh
+http://www.wikidata.org/entity/Q43390950,A/EGD/334,Jonet Thomson,Edinburgh,Point(-3.189166666 55.953333333),female,,,middling,,,,,Tranent
+http://www.wikidata.org/entity/Q43390950,A/EGD/334,Jonet Thomson,Tranent,Point(-2.95417 55.9447),female,,,middling,,,,,Tranent
+http://www.wikidata.org/entity/Q43391514,A/EGD/820,Betty (Beatrix) Laing,Pittenweem,Point(-2.728611111 56.213055555),female,,,middling,,,,,Pittenweem
+http://www.wikidata.org/entity/Q43391668,A/JO/2639,William Whyte,North Berwick,Point(-2.717 56.058),male,,,,,,,,North Berwick
+http://www.wikidata.org/entity/Q43392194,A/EGD/1132,Bessie Hepburne,Haddington,Point(-2.78332 55.95612),female,,,upper class,,,,,Haddington
+http://www.wikidata.org/entity/Q43392218,A/EGD/1253,Helen Widdrow,Nobleston,Point(-4.563879 55.976146),female,,,,,,,,Nobleston
+http://www.wikidata.org/entity/Q43392228,A/EGD/1298,Kathren Shaw,Lanark,Point(-3.77702 55.6749),female,,,,,,,,Lanark
+http://www.wikidata.org/entity/Q43392242,A/EGD/1711,Margaret Abernethy,Aberdeen,Point(-2.1 57.15),female,,,working poor,,,,,Aberdeen
+http://www.wikidata.org/entity/Q43392250,A/EGD/1729,Margret Jackson,Paisley,Point(-4.423888888 55.845555555),female,,,,,capital punishment,,Gallows Green,Paisley
+http://www.wikidata.org/entity/Q43392269,A/EGD/1880,Margaret Pringle,Bo'ness,Point(-3.608911111 56.016811111),female,,,working poor,,,,,Bo'ness
+http://www.wikidata.org/entity/Q43392346,A/EGD/324,Agnes Thomson,Musselburgh,Point(-3.054166666 55.941944444),female,,,,,,,,Musselburgh
+http://www.wikidata.org/entity/Q43392365,A/EGD/362,Janet Lyle,Musselburgh,Point(-3.054166666 55.941944444),female,,,,,capital punishment,,Musselburgh,Musselburgh
+http://www.wikidata.org/entity/Q43392365,A/EGD/362,Janet Lyle,Edmonstone,Point(-3.115893 55.917566),female,,,,,capital punishment,,Musselburgh,Musselburgh
+http://www.wikidata.org/entity/Q43392365,A/EGD/362,Janet Lyle,Musselburgh,Point(-3.054166666 55.941944444),female,,,,,capital punishment,,Musselburgh,Edmonstone
+http://www.wikidata.org/entity/Q43392365,A/EGD/362,Janet Lyle,Edmonstone,Point(-3.115893 55.917566),female,,,,,capital punishment,,Musselburgh,Edmonstone
+http://www.wikidata.org/entity/Q43392514,A/LA/3127,Bessie Mastertoun,Dunfermline,Point(-3.461666666 56.071388888),female,,,,,,,,Dunfermline
+http://www.wikidata.org/entity/Q43392856,A/EGD/1213,John Smith,Edinburgh,Point(-3.189166666 55.953333333),male,courier,,,,,,,Edinburgh
+http://www.wikidata.org/entity/Q43392968,A/EGD/1304,Barbara Purdie,Haddington,Point(-2.78332 55.95612),female,,,,,,,,Haddington
+http://www.wikidata.org/entity/Q43393288,A/EGD/1458,Gray,Rhynd,Point(-3.36614 56.3648),,,,,,,,,Rhynd
+http://www.wikidata.org/entity/Q43393458,A/EGD/1538,Jon Grieve,Lauder,Point(-2.74855 55.7194),male,,,,,,,,Lauder
+http://www.wikidata.org/entity/Q43393472,A/EGD/1542,Agnes Wauch,Lauder,Point(-2.74855 55.7194),female,,,,,,,,Lauder
+http://www.wikidata.org/entity/Q43393696,A/EGD/1775,Margaret Munro,Fortrose,Point(-4.13237 57.5815),female,,,,,,,,Fortrose
+http://www.wikidata.org/entity/Q43393707,A/EGD/1655,Kathrin Nein Ferquhar McEan,Comar,Point(-4.770844 57.341849),female,,,,,,,,Comar
+http://www.wikidata.org/entity/Q43393756,A/EGD/1678,Elspeth Bruce,Forfar,Point(-2.89 56.643055555),female,,,,,,,,Forfar
+http://www.wikidata.org/entity/Q43393781,A/EGD/1833,Bessie Forrest,Peebles,Point(-3.188888888 55.651944444),female,,,,,,,,Peebles
+http://www.wikidata.org/entity/Q43393820,A/EGD/1701,Margaret Guthrie,Anstruther Wester,Point(-2.707915311 56.220688919),female,,,,,,,,Anstruther Wester
+http://www.wikidata.org/entity/Q43393838,A/EGD/1708,Agnes Broun,Torryburn,Point(-3.55 56.05),female,,,,,,,,Torryburn
+http://www.wikidata.org/entity/Q43393845,A/EGD/1712,Robert Shevies,Aberdeen,Point(-2.1 57.15),male,blacksmith,,middling,,,,,Aberdeen
+http://www.wikidata.org/entity/Q43393853,A/EGD/1719,Mareon Caskie,Lanark,Point(-3.77702 55.6749),female,,,middling,,,,,Lanark
+http://www.wikidata.org/entity/Q43393857,A/EGD/1721,Molphrie Porteous,Scalloway,Point(-1.275 60.137),female,,,,,,,,Scalloway
+http://www.wikidata.org/entity/Q43393868,A/EGD/1895,Janet Wodrow,Greenock,Point(-4.766666666 55.95),female,,,,,,,,Greenock
+http://www.wikidata.org/entity/Q43393884,A/EGD/1738,Margaret Wright,Dumbarton,Point(-4.547222222 55.948611111),female,,,,,,,,Dumbarton
+http://www.wikidata.org/entity/Q43393902,A/EGD/1747,Margaret Whyte,Loanhead,Point(-3.14827 55.8778),female,,,,,,,,Loanhead
+http://www.wikidata.org/entity/Q43393907,A/EGD/1749,Margaret Liddell,Loanhead,Point(-3.14827 55.8778),female,,,,,,,,Loanhead
+http://www.wikidata.org/entity/Q43393932,A/EGD/1763,James Lindsay,Paisley,Point(-4.423888888 55.845555555),male,,,,,capital punishment,,Paisley,Paisley
+http://www.wikidata.org/entity/Q43393932,A/EGD/1763,James Lindsay,Renfrew,Point(-4.366666666 55.866666666),male,,,,,capital punishment,,Paisley,Paisley
+http://www.wikidata.org/entity/Q43393932,A/EGD/1763,James Lindsay,Paisley,Point(-4.423888888 55.845555555),male,,,,,capital punishment,,Paisley,Renfrew
+http://www.wikidata.org/entity/Q43393932,A/EGD/1763,James Lindsay,Renfrew,Point(-4.366666666 55.866666666),male,,,,,capital punishment,,Paisley,Renfrew
+http://www.wikidata.org/entity/Q43394022,A/EGD/2041,Jannet Pyper,Thurso,Point(-3.521111111 58.596111111),female,,,,,,,,Thurso
+http://www.wikidata.org/entity/Q43394024,A/EGD/2043,Margaret Nin Gilbert,Thurso,Point(-3.521111111 58.596111111),female,,,,,,,,Thurso
+http://www.wikidata.org/entity/Q43394163,A/EGD/2202,Margaret Fraser,Aberdeen,Point(-2.1 57.15),female,,,,,,,,Aberdeen
+http://www.wikidata.org/entity/Q43394483,A/EGD/2349,Janet Stoddart,Inveresk,Point(-3.0468 55.9366),female,,,,,,,,Inveresk
+http://www.wikidata.org/entity/Q43395108,A/EGD/600,Helen Forrester,Edinburgh,Point(-3.189166666 55.953333333),female,,,,,capital punishment,,Gallow Lea,Edinburgh
+http://www.wikidata.org/entity/Q43395178,A/EGD/680,Isobell Eliot,Edinburgh,Point(-3.189166666 55.953333333),female,servant,,working poor,,capital punishment,,,Edinburgh
+http://www.wikidata.org/entity/Q43395296,A/EGD/868,Jonet Johnstoun,Linlithgow,Point(-3.610555555 55.975277777),female,,,,,,,,Linlithgow
+http://www.wikidata.org/entity/Q43395304,A/EGD/878,William Nicoll,Ayr,Point(-4.627777777 55.463888888),male,merchant,,middling,,,,,Ayr
+http://www.wikidata.org/entity/Q43395312,A/EGD/886,Christiane Hammyltoun,Inverkeithing,Point(-3.383333333 56.033333333),female,,,,,,,,Inverkeithing
+http://www.wikidata.org/entity/Q43395335,A/EGD/911,Jonnet Robeson,Inverkeithing,Point(-3.383333333 56.033333333),female,,,,,,,,Inverkeithing
+http://www.wikidata.org/entity/Q43395345,A/EGD/921,Marjory Gibsoun,Inverkeithing,Point(-3.383333333 56.033333333),female,,,,,,,,Inverkeithing
+http://www.wikidata.org/entity/Q43395347,A/EGD/923,Beatrix Thomsone,Inverkeithing,Point(-3.383333333 56.033333333),female,,,,,,,,Inverkeithing
+http://www.wikidata.org/entity/Q43395348,A/EGD/924,Issobell Haldane,Perth,Point(-3.433333333 56.395833333),female,,,,,,,,Perth
+http://www.wikidata.org/entity/Q43395568,A/JO/2738,Cristeane Cuthbert,Falkirk,Point(-3.784444444 56.000555555),female,,,,,,,,Falkirk
+http://www.wikidata.org/entity/Q43395603,A/JO/2806,Jonet Acheson,Lanark,Point(-3.77702 55.6749),female,,,,,,,,Lanark
+http://www.wikidata.org/entity/Q43395659,A/JO/2909,Barbara Bowndie,Kirkwall,Point(-2.96 58.981111111),female,,,,,,,,Kirkwall
+http://www.wikidata.org/entity/Q43395742,A/JO/3013,Jennet Wilson,Newbattle,Point(-3.0775 55.881694444),female,,,,,,,,Newbattle
+http://www.wikidata.org/entity/Q43395892,A/LA/2757,Margaret Allane,Cousland,Point(-2.995274 55.904962),female,,,,,,,,Cousland
+http://www.wikidata.org/entity/Q43395945,A/LA/2827,John Neill,Dunbar,Point(-2.522777777 55.998333333),male,,,,,,,,Dunbar
+http://www.wikidata.org/entity/Q43395946,A/LA/2828,Catharine Fleck,Dunbar,Point(-2.522777777 55.998333333),female,,,,,,,,Dunbar
+http://www.wikidata.org/entity/Q43395999,A/LA/2901,Jannet Craig,Edinburgh,Point(-3.189166666 55.953333333),female,,,,,,,,Edinburgh
+http://www.wikidata.org/entity/Q43396215,A/LA/3184,Helen Pennant,Edinburgh,Point(-3.189166666 55.953333333),female,,,,,capital punishment,,,Edinburgh
+http://www.wikidata.org/entity/Q43390493,A/EGD/1831,Marioun Robiesone,Peebles,Point(-3.188888888 55.651944444),female,,,,,,,,Peebles
+http://www.wikidata.org/entity/Q43390770,A/EGD/2274,Janet Lowrie,North Queensferry,Point(-3.394166666 56.011111111),female,,,,,capital punishment,,,North Queensferry
+http://www.wikidata.org/entity/Q43390857,A/EGD/2515,Marjorie Philip,Dunfermline,Point(-3.461666666 56.071388888),female,,,,,,,,Dunfermline
+http://www.wikidata.org/entity/Q43392265,A/EGD/1877,Bessie Vikker,Bo'ness,Point(-3.608911111 56.016811111),female,,,middling,,,,,Bo'ness
+http://www.wikidata.org/entity/Q43392267,A/EGD/1879,Margaret Hamilton,Bo'ness,Point(-3.608888888 56.016944444),female,,,,,,,,Bo'ness
+http://www.wikidata.org/entity/Q43392281,A/EGD/1962,Marion Watsone,Peebles,Point(-3.188888888 55.651944444),female,,,,,,,,Peebles
+http://www.wikidata.org/entity/Q43393778,A/EGD/1830,Thomas Shanks,Peebles,Point(-3.188888888 55.651944444),male,weaver,,middling,,,,,Peebles
+http://www.wikidata.org/entity/Q43394167,A/EGD/2205,Marioun Grig,Dysart,Point(-3.12538 56.12557),female,,,,,,,,Dysart
+http://www.wikidata.org/entity/Q43394297,A/EGD/2281,Marioun Little,North Queensferry,Point(-3.394166666 56.011111111),female,,,,,capital punishment,,Linlithgow,North Queensferry
+http://www.wikidata.org/entity/Q43394359,A/EGD/2305,Marion Inglis,Corstorphine,Point(-3.28544 55.9429),female,,,,,,,,Corstorphine
+http://www.wikidata.org/entity/Q43394665,A/EGD/2443,Janet Horseburgh,Pittenweem,Point(-2.728611111 56.213055555),female,,,,,,,,Pittenweem
+http://www.wikidata.org/entity/Q43391743,A/JO/2941,Catherin Kello,Stirling,Point(-3.9369 56.1166),female,,,,,,,,Stirling
+http://www.wikidata.org/entity/Q43395516,A/JO/2687,Christian Lindesay,Dalkeith,Point(-3.068332 55.893642),female,,,,,,,,Dalkeith
+http://www.wikidata.org/entity/Q43395588,A/JO/2771,John Aitkin,Lasswade,Point(-3.11667 55.8833),male,,,,,,,,Lasswade
+http://www.wikidata.org/entity/Q43395652,A/JO/2904,Helen Tailzour,Kirkwall,Point(-2.96 58.981111111),female,,,,,,,,Kirkwall
+http://www.wikidata.org/entity/Q43395685,A/JO/2935,Jonet Burt,Dysart,Point(-3.12538 56.12557),female,,,,,,,,Dysart
+http://www.wikidata.org/entity/Q43395688,A/JO/2937,Margaret Young,Dysart,Point(-3.12538 56.12557),female,,,,,,,,Dysart
+http://www.wikidata.org/entity/Q43395862,A/LA/2681,Katherine Casse,Dalkeith,Point(-3.068332 55.893642),female,,,,,,,,Dalkeith
+http://www.wikidata.org/entity/Q43395954,A/LA/2836,Jean Anderson,Renfrew,Point(-4.366666666 55.866666666),female,,,,,,,,Renfrew
+http://www.wikidata.org/entity/Q43396128,A/LA/3074,Elspeth McGowane,Kirkcudbright,Point(-4.051666666 54.835277777),female,,,,,capital punishment,,,Kirkcudbright
+http://www.wikidata.org/entity/Q43391811,A/LA/2540,Margaret Nicolsone,Edinburgh,Point(-3.189166666 55.953333333),female,,,middling,,,,,Edinburgh
+http://www.wikidata.org/entity/Q43392057,A/LA/3115,Anna Tait,Haddington,Point(-2.78332 55.95612),female,,,middling,,capital punishment,,Haddington,Haddington
+http://www.wikidata.org/entity/Q43392474,A/JO/2747,Elizabeth Moody,Haddington,Point(-2.78332 55.95612),female,,,,,,,,Haddington
+http://www.wikidata.org/entity/Q43392487,A/LA/2841,Margaret Shearer,Paisley,Point(-4.423888888 55.845555555),female,,,,,,,,Paisley
+http://www.wikidata.org/entity/Q43395412,A/JO/2566,Helen Fairlie,Haddington,Point(-2.78332 55.95612),female,,,,,,,,Haddington
+http://www.wikidata.org/entity/Q43395419,A/JO/2573,Margaret Brotherstone,Haddington,Point(-2.78332 55.95612),female,,,,,,,,Haddington
+http://www.wikidata.org/entity/Q43395518,A/JO/2688,Alisoun Baillie,Dalkeith,Point(-3.068332 55.893642),female,,,,,,,,Dalkeith
+http://www.wikidata.org/entity/Q43395585,A/JO/2764,Barbara Honeyman,Falkland,Point(-3.2 56.25),female,,,,,,,,Falkland
+http://www.wikidata.org/entity/Q43395602,A/JO/2805,Jonet McBirnie,Lanark,Point(-3.77702 55.6749),female,,,,,,,,Lanark
+http://www.wikidata.org/entity/Q43395606,A/JO/2809,Bessie Williamson,Lanark,Point(-3.77702 55.6749),female,,,,,,,,Lanark
+http://www.wikidata.org/entity/Q43395618,A/JO/2825,Catharin Lyell,Montrose,Point(-2.467 56.708),female,,,,,,,,Montrose
+http://www.wikidata.org/entity/Q43395651,A/JO/2903,Margaret Thomesone,Kirkwall,Point(-2.96 58.981111111),female,,,,,,,,Kirkwall
+http://www.wikidata.org/entity/Q43395680,A/JO/2930,Issoble Garner,Dysart,Point(-3.12538 56.12557),female,,,,,,,,Dysart
+http://www.wikidata.org/entity/Q43395691,A/JO/2942,Jonet Crawfurd,Stirling,Point(-3.9369 56.1166),female,,,,,,,,Stirling
+http://www.wikidata.org/entity/Q43395944,A/LA/2826,John Lindsay,Paisley,Point(-4.423888888 55.845555555),male,,,,,capital punishment,,Gallows Green,Paisley
+http://www.wikidata.org/entity/Q43395944,A/LA/2826,John Lindsay,Renfrew,Point(-4.366666666 55.866666666),male,,,,,capital punishment,,Gallows Green,Paisley
+http://www.wikidata.org/entity/Q43395944,A/LA/2826,John Lindsay,Paisley,Point(-4.423888888 55.845555555),male,,,,,capital punishment,,Gallows Green,Renfrew
+http://www.wikidata.org/entity/Q43395944,A/LA/2826,John Lindsay,Renfrew,Point(-4.366666666 55.866666666),male,,,,,capital punishment,,Gallows Green,Renfrew
+http://www.wikidata.org/entity/Q43395952,A/LA/2834,Jannet Rodgers,Renfrew,Point(-4.366666666 55.866666666),female,,,,,,,,Renfrew
+http://www.wikidata.org/entity/Q43395958,A/LA/2844,William Miller,Renfrew,Point(-4.366666666 55.866666666),male,,,,,,,,Renfrew
+http://www.wikidata.org/entity/Q43391307,A/EGD/606,Gideon Penman,Edinburgh,Point(-3.189166666 55.953333333),male,Christian minister,,middling,,,,,Edinburgh
+http://www.wikidata.org/entity/Q43391374,A/EGD/689,Bessie Gibb,Bo'ness,Point(-3.608911111 56.016811111),female,,,middling,,,,,Bo'ness
+http://www.wikidata.org/entity/Q43391480,A/EGD/778,Jean Thomson,Kirkcudbright,Point(-4.051666666 54.835277777),female,,,middling,,capital punishment,,Dumfries,Kirkcudbright
+http://www.wikidata.org/entity/Q43391572,A/EGD/877,Margaret Barclay,Irvine,Point(-4.661111111 55.619444444),female,,,middling,,,,,Irvine
+http://www.wikidata.org/entity/Q43391682,A/JO/2773,Beatrix Foord,Duns,Point(-2.3426 55.7784),female,,,,,,,,Duns
+http://www.wikidata.org/entity/Q43391732,A/JO/2921,Issobell Watsonne,Stirling,Point(-3.9369 56.1166),female,,,,,,,,Stirling
+http://www.wikidata.org/entity/Q43392392,A/EGD/595,Agnes Hendrie,Culross,Point(-3.6293 56.0554),female,,,,,capital punishment,,Gallow Lea,Culross
+http://www.wikidata.org/entity/Q43392396,A/EGD/597,Issobell Inglis,Culross,Point(-3.6293 56.0554),female,,,,,capital punishment,,Gallow Lea,Culross
+http://www.wikidata.org/entity/Q43392459,A/EGD/905,Helen Cummyng,St Colme House,Point(-3.31373 56.0443),female,,,,,,,,St Colme House
+http://www.wikidata.org/entity/Q43395105,A/EGD/593,Janet McNicol,Rothesay,Point(-5.055 55.836388888),female,,,,,capital punishment,,Rothesay,Rothesay
+http://www.wikidata.org/entity/Q43395281,A/EGD/848,Robertson,Perth,Point(-3.433333333 56.395833333),,,,,,,,,Perth
+http://www.wikidata.org/entity/Q43395284,A/EGD/854,Marjorie Lyell,Jedburgh,Point(-2.546 55.477),female,,,,,,,,Jedburgh
+http://www.wikidata.org/entity/Q43395305,A/EGD/879,Malie Wilson,Ayr,Point(-4.627777777 55.463888888),female,,,,,capital punishment,,,Ayr
+http://www.wikidata.org/entity/Q43395316,A/EGD/889,Bessie Harlaw,Inverkeithing,Point(-3.383333333 56.033333333),female,,,,,,,,Inverkeithing
+http://www.wikidata.org/entity/Q43395341,A/EGD/917,Marioun Hendersone,Inverkeithing,Point(-3.383333333 56.033333333),female,,,,,,,,Inverkeithing
+http://www.wikidata.org/entity/Q43395432,A/JO/2585,Margaret Patersone,Haddington,Point(-2.78332 55.95612),female,,,,,,,,Haddington
+http://www.wikidata.org/entity/Q43395597,A/JO/2782,Mary Muarn Vic Innish,Comar,Point(-4.770844 57.341849),female,,,,,,,,Comar
+http://www.wikidata.org/entity/Q43395607,A/JO/2810,Marion Moffat (second),Lanark,Point(-3.77702 55.6749),female,,,,,,,,Lanark
+http://www.wikidata.org/entity/Q43391278,A/EGD/589,Margaret McGuffock,Dumfries,Point(-3.616666666 55.066666666),female,,,,,,,,Dumfries
+http://www.wikidata.org/entity/Q43391278,A/EGD/589,Margaret McGuffock,Kirkcudbright,Point(-4.051666666 54.835277777),female,,,,,,,,Dumfries
+http://www.wikidata.org/entity/Q43391278,A/EGD/589,Margaret McGuffock,Dumfries,Point(-3.616666666 55.066666666),female,,,,,,,,Kirkcudbright
+http://www.wikidata.org/entity/Q43391278,A/EGD/589,Margaret McGuffock,Kirkcudbright,Point(-4.051666666 54.835277777),female,,,,,,,,Kirkcudbright
+http://www.wikidata.org/entity/Q43391322,A/EGD/622,Janet Hardie,Musselburgh,Point(-3.054166666 55.941944444),female,,,middling,,,,,Musselburgh
+http://www.wikidata.org/entity/Q43391443,A/EGD/733,Mary Morisone,Edinburgh,Point(-3.189166666 55.953333333),female,,,middling,,,,,Edinburgh
+http://www.wikidata.org/entity/Q43391499,A/EGD/796,Jean Rutherd,Lauder,Point(-2.74855 55.7194),female,,,middling,,,,,Lauder
+http://www.wikidata.org/entity/Q43392400,A/EGD/621,Janet Barclay,Musselburgh,Point(-3.054166666 55.941944444),female,,,,,,,,Musselburgh
+http://www.wikidata.org/entity/Q43392452,A/EGD/856,Manie Ellote,Jedburgh,Point(-2.546 55.477),female,,,,,,,,Jedburgh
+http://www.wikidata.org/entity/Q43392465,A/EGD/994,Katherene Crystie,Dysart,Point(-3.12538 56.12557),female,,,,,,,,Dysart
+http://www.wikidata.org/entity/Q43394855,A/EGD/296,Janet Millar,Stirling,Point(-3.9369 56.1166),female,,,,,,,,Stirling
+http://www.wikidata.org/entity/Q43394873,A/EGD/302,Bessie Lacost,Dunbar,Point(-2.522777777 55.998333333),female,,,,,,,,Dunbar
+http://www.wikidata.org/entity/Q43395187,A/EGD/70,Barbara Keand,Aberdeen,Point(-2.1 57.15),female,,,,,,,,Aberdeen
+http://www.wikidata.org/entity/Q43395234,A/EGD/781,Agnes (Bigis) Cairnes,Kirkcudbright,Point(-4.051666666 54.835277777),female,servant,,,,capital punishment,,Dumfries,Kirkcudbright
+http://www.wikidata.org/entity/Q43395325,A/EGD/899,Janet McIllwhichill,Glasgow,Point(-4.25 55.861111111),female,,,,,,,,Glasgow
+http://www.wikidata.org/entity/Q43395350,A/EGD/929,Jonet Umphra,Culross,Point(-3.6293 56.0554),female,,,,,,,,Culross
+http://www.wikidata.org/entity/Q43395370,A/EGD/957,Jonnet Pedie,Dysart,Point(-3.12538 56.12557),female,,,,,,,,Dysart
+http://www.wikidata.org/entity/Q43395382,A/EGD/97,Donald Robinson,Edinburgh,Point(-3.189166666 55.953333333),male,,,,,,,,Edinburgh
+http://www.wikidata.org/entity/Q43395382,A/EGD/97,Donald Robinson,Tranent,Point(-2.95417 55.9447),male,,,,,,,,Edinburgh
+http://www.wikidata.org/entity/Q43395382,A/EGD/97,Donald Robinson,Seton,Point(-2.940687 55.964086),male,,,,,,,,Edinburgh
+http://www.wikidata.org/entity/Q43395382,A/EGD/97,Donald Robinson,Edinburgh,Point(-3.189166666 55.953333333),male,,,,,,,,Tranent
+http://www.wikidata.org/entity/Q43395382,A/EGD/97,Donald Robinson,Tranent,Point(-2.95417 55.9447),male,,,,,,,,Tranent
+http://www.wikidata.org/entity/Q43395382,A/EGD/97,Donald Robinson,Seton,Point(-2.940687 55.964086),male,,,,,,,,Tranent
+http://www.wikidata.org/entity/Q43395382,A/EGD/97,Donald Robinson,Edinburgh,Point(-3.189166666 55.953333333),male,,,,,,,,Seton
+http://www.wikidata.org/entity/Q43395382,A/EGD/97,Donald Robinson,Tranent,Point(-2.95417 55.9447),male,,,,,,,,Seton
+http://www.wikidata.org/entity/Q43395382,A/EGD/97,Donald Robinson,Seton,Point(-2.940687 55.964086),male,,,,,,,,Seton
+http://www.wikidata.org/entity/Q43395446,A/JO/2596,Isobell Ramannows,Haddington,Point(-2.78332 55.95612),female,,,,,,,,Haddington
+http://www.wikidata.org/entity/Q26997502,A/JO/2894,Margaret Bane,Aberdeen,Point(-2.1 57.15),female,midwife,,working poor,,capital punishment,,Aberdeen,Aberdeen
+http://www.wikidata.org/entity/Q43389907,A/LA/2839,Angus Forrester,Renfrew,Point(-4.366666666 55.866666666),male,,,,Gaels,,,,Renfrew
+http://www.wikidata.org/entity/Q43389974,A/EGD/1031,Alesoun Dempstar,Leith,Point(-3.17005 55.9801),female,,,middling,,,,,Leith
+http://www.wikidata.org/entity/Q43391739,A/JO/2940,Catherine Watson,Lauder,Point(-2.74855 55.7194),female,,,,,,,,Lauder
+http://www.wikidata.org/entity/Q43391871,A/LA/2846,Margaret Cunninghame,Renfrew,Point(-4.366666666 55.866666666),female,,,,,,,,Renfrew
+http://www.wikidata.org/entity/Q43395309,A/EGD/882,Issobell Scherar,Irvine,Point(-4.661111111 55.619444444),female,,,,,,,,Irvine
+http://www.wikidata.org/entity/Q43395311,A/EGD/884,Margaret Wod,Crail,Point(-2.6263 56.2608),female,,,,,,,,Crail
+http://www.wikidata.org/entity/Q43395313,A/EGD/887,Beatrice Mudie,Inverkeithing,Point(-3.383333333 56.033333333),female,,,,,,,,Inverkeithing
+http://www.wikidata.org/entity/Q43395328,A/EGD/902,Agnes Robertsone,St Colme House,Point(-3.31373 56.0443),female,,,,,,,,St Colme House
+http://www.wikidata.org/entity/Q43395340,A/EGD/916,Bessie Andersone,Inverkeithing,Point(-3.383333333 56.033333333),female,,,,,,,,Inverkeithing
+http://www.wikidata.org/entity/Q43395346,A/EGD/922,Jonet Keirie,Inverkeithing,Point(-3.383333333 56.033333333),female,,,,,,,,Inverkeithing
+http://www.wikidata.org/entity/Q43395349,A/EGD/925,Margaret Hormscleugh,Perth,Point(-3.433333333 56.395833333),female,,,,,,,,Perth
+http://www.wikidata.org/entity/Q43395374,A/EGD/960,Helene Dryburghe,Dysart,Point(-3.12538 56.12557),female,,,,,,,,Dysart
+http://www.wikidata.org/entity/Q43395421,A/JO/2575,Agnes Wilsone,Haddington,Point(-2.78332 55.95612),female,,,,,,,,Haddington
+http://www.wikidata.org/entity/Q43395431,A/JO/2584,James Paterson,Humbie,Point(-2.86735 55.8544),male,,,,,,,,Humbie
+http://www.wikidata.org/entity/Q43395433,A/JO/2586,Jean Hunter,Haddington,Point(-2.78332 55.95612),female,,,,,,,,Haddington
+http://www.wikidata.org/entity/Q43395562,A/JO/2731,Elspit Scot,Linlithgow,Point(-3.610555555 55.975277777),female,,,pauper,,,,,Linlithgow
+http://www.wikidata.org/entity/Q43395574,A/JO/2744,Margaret Dalgleish,Peebles,Point(-3.188888888 55.651944444),female,,,,,,,,Peebles
+http://www.wikidata.org/entity/Q43395580,A/JO/2750,More Roy,Castle Tioram,Point(-5.829071903 56.784552181),,,,,,,,,Castle Tioram
+http://www.wikidata.org/entity/Q43395614,A/JO/2822,Margaret Currie,Aberdour,Point(-3.3021 56.0528),female,,,,,,,,Aberdour
+http://www.wikidata.org/entity/Q43395653,A/JO/2905,Barbara Yorston,Kirkwall,Point(-2.96 58.981111111),female,,,,,,,,Kirkwall
+http://www.wikidata.org/entity/Q43395832,A/LA/2652,Margaret Kent,Inverkeithing,Point(-3.383333333 56.033333333),female,,,,,,,,Inverkeithing
+http://www.wikidata.org/entity/Q43395934,A/LA/2804,John Dixson,Berwick-upon-Tweed,Point(-2.0025 55.769166666),male,,,,,,,,Berwick-upon-Tweed
+http://www.wikidata.org/entity/Q43395948,A/LA/2830,Cristen Jamesone,Dunbar,Point(-2.522777777 55.998333333),female,,,,,,,,Dunbar
+http://www.wikidata.org/entity/Q43395953,A/LA/2835,Margaret Rodgers,Renfrew,Point(-4.366666666 55.866666666),female,,,,,,,,Renfrew
+http://www.wikidata.org/entity/Q43396062,A/LA/2987,Robert Short,Galloway,Point(-4.133333333 55.05),male,,,,,,,,Galloway
+http://www.wikidata.org/entity/Q43396062,A/LA/2987,Robert Short,New Galloway,Point(-4.140305 55.075756),male,,,,,,,,Galloway
+http://www.wikidata.org/entity/Q43396062,A/LA/2987,Robert Short,Galloway,Point(-4.133333333 55.05),male,,,,,,,,New Galloway
+http://www.wikidata.org/entity/Q43396062,A/LA/2987,Robert Short,New Galloway,Point(-4.140305 55.075756),male,,,,,,,,New Galloway
+http://www.wikidata.org/entity/Q43396214,A/LA/3182,John Crods,Duns,Point(-2.3426 55.7784),male,,,,,,,,Duns
+http://www.wikidata.org/entity/Q43390891,A/EGD/285,Elizabeth Black,Stirling,Point(-3.9369 56.1166),female,,,,,,,,Stirling
+http://www.wikidata.org/entity/Q43390891,A/EGD/285,Elizabeth Black,Alloa,Point(-3.7912 56.1155),female,,,,,,,,Stirling
+http://www.wikidata.org/entity/Q43390891,A/EGD/285,Elizabeth Black,Stirling,Point(-3.9369 56.1166),female,,,,,,,,Alloa
+http://www.wikidata.org/entity/Q43390891,A/EGD/285,Elizabeth Black,Alloa,Point(-3.7912 56.1155),female,,,,,,,,Alloa
+http://www.wikidata.org/entity/Q43390964,A/EGD/359,Janet Daill,Musselburgh,Point(-3.054166666 55.941944444),female,,,working poor,,capital punishment,,Musselburgh,Musselburgh
+http://www.wikidata.org/entity/Q43391147,A/EGD/489,Christiane Deanes,Haddington,Point(-2.78332 55.95612),female,,,,,,,,Haddington
+http://www.wikidata.org/entity/Q43391521,A/EGD/825,Issobell Douglas,Dunkeld,Point(-3.586 56.5661),female,,,,,,,,Dunkeld
+http://www.wikidata.org/entity/Q43391621,A/EGD/946,Jonnett Tor,Culross,Point(-3.6293 56.0554),female,,,,,,,,Culross
+http://www.wikidata.org/entity/Q43392378,A/EGD/406,Jeane Gaylor,Canongate,Point(-3.1793 55.9517),female,,,middling,,,,,Canongate
+http://www.wikidata.org/entity/Q43392393,A/EGD/596,Jonet Hendrie,Culross,Point(-3.6293 56.0554),female,,,,,capital punishment,,Gallow Lea,Culross
+http://www.wikidata.org/entity/Q43394839,A/EGD/282,Jonet Black,Alloa,Point(-3.7912 56.1155),female,,,,,,,,Alloa
+http://www.wikidata.org/entity/Q43395094,A/EGD/581,John Scott,Edinburgh,Point(-3.189166666 55.953333333),male,laborer,,pauper,,,,,Edinburgh
+http://www.wikidata.org/entity/Q43395229,A/EGD/771,Jonet Slowane,Ayr,Point(-4.627777777 55.463888888),female,,,,,capital punishment,,Ayr,Ayr
+http://www.wikidata.org/entity/Q43395318,A/EGD/890,Marioun Chatto,Inverkeithing,Point(-3.383333333 56.033333333),female,,,,,,,,Inverkeithing
+http://www.wikidata.org/entity/Q43395331,A/EGD/909,Marjorie Aitkyne,Inverkeithing,Point(-3.383333333 56.033333333),female,,,,,,,,Inverkeithing
+http://www.wikidata.org/entity/Q43395336,A/EGD/912,Margaret Merschell,Inverkeithing,Point(-3.383333333 56.033333333),female,,,,,,,,Inverkeithing
+http://www.wikidata.org/entity/Q43395337,A/EGD/913,Bessie Logie,Inverkeithing,Point(-3.383333333 56.033333333),female,,,,,,,,Inverkeithing
+http://www.wikidata.org/entity/Q43395338,A/EGD/914,Margaret Bull,Inverkeithing,Point(-3.383333333 56.033333333),female,,,,,,,,Inverkeithing
+http://www.wikidata.org/entity/Q43395368,A/EGD/955,Issobell Mawer,Dysart,Point(-3.12538 56.12557),female,,,,,,,,Dysart
+http://www.wikidata.org/entity/Q43395371,A/EGD/958,Patrik Landrok,Dysart,Point(-3.12538 56.12557),male,,,,,,,,Dysart
+http://www.wikidata.org/entity/Q43395406,A/JO/2560,Marione Meik,Dirleton,Point(-2.785 56.048),female,,,,,,,,Dirleton
+http://www.wikidata.org/entity/Q43402734,A/EGD/158,Jon Neill,Edinburgh,Point(-3.189166666 55.953333333),male,farmer,,middling,English people,capital punishment,,Castle Hill,Edinburgh
+http://www.wikidata.org/entity/Q43395422,A/JO/2576,Agnes Broune,Haddington,Point(-2.78332 55.95612),female,,,,,,,,Haddington
+http://www.wikidata.org/entity/Q43395438,A/JO/2589,Agnes Angus,Stenton,Point(-2.6 55.95),female,,,,,,,,Stenton
+http://www.wikidata.org/entity/Q43395447,A/JO/2597,Margaret Dunkalow,Haddington,Point(-2.78332 55.95612),female,,,,,,,,Haddington
+http://www.wikidata.org/entity/Q43395448,A/JO/2598,Margaret Bishop,Aberlady,Point(-2.86 56.01),female,,,,,,,,Aberlady
+http://www.wikidata.org/entity/Q43395643,A/JO/2887,Janet Kennedy,Dumfries,Point(-3.616666666 55.066666666),female,,,,,,,,Dumfries
+http://www.wikidata.org/entity/Q43395738,A/JO/3009,Helen Conker,Inveresk,Point(-3.0468 55.9366),female,,,,,,,,Inveresk
+http://www.wikidata.org/entity/Q43395739,A/JO/3010,Geills Chartes,Newbattle,Point(-3.0775 55.8817),female,,,,,,,,Newbattle
+http://www.wikidata.org/entity/Q43395815,A/LA/2549,Margaret Donaldsone,Inverkeithing,Point(-3.383333333 56.033333333),female,,,,,,,,Inverkeithing
+http://www.wikidata.org/entity/Q43395816,A/LA/2551,Margaret Thompsoun,Dysart,Point(-3.12538 56.12557),female,,,,,,,,Dysart
+http://www.wikidata.org/entity/Q43395833,A/LA/2653,Jonet Thomson,Edinburgh,Point(-3.189166666 55.953333333),female,,,,,,,,Edinburgh
+http://www.wikidata.org/entity/Q43395925,A/LA/2793,Rychard Grahame,Edinburgh,Point(-3.189166666 55.953333333),male,,,,,capital punishment,,,Edinburgh
+http://www.wikidata.org/entity/Q43396137,A/LA/3084,Gawin Forsyth,Dumfries,Point(-3.616666666 55.066666666),male,,,,,,,,Dumfries
+http://www.wikidata.org/entity/Q34370755,A/EGD/172,Agnes Finnie,Edinburgh,Point(-3.189166666 55.953333333),female,shopkeeper,,middling,,capital punishment,,Castle Hill,Edinburgh
+http://www.wikidata.org/entity/Q43389933,A/EGD/947,Helene Ezatt,Culross,Point(-3.6293 56.0554),female,,,,,,,,Culross
+http://www.wikidata.org/entity/Q43390240,A/EGD/1314,Manie Halieburton,Dirleton,Point(-2.785 56.048),female,,,,,,,,Dirleton
+http://www.wikidata.org/entity/Q43390439,A/EGD/1718,Grissell Jaffray,Dundee,Point(-2.97 56.464),female,,,middling,,,,Dundee,Dundee
+http://www.wikidata.org/entity/Q43390472,A/EGD/1761,Katherine Campbell,Paisley,Point(-4.423888888 55.845555555),female,servant,,middling,,capital punishment,,Paisley,Paisley
+http://www.wikidata.org/entity/Q43390472,A/EGD/1761,Katherine Campbell,Paisley,Point(-4.423888888 55.845555555),female,servant,,middling,,capital punishment,,Gallows Green,Paisley
+http://www.wikidata.org/entity/Q43390590,A/EGD/1980,Bessie Eumond,Peebles,Point(-3.188888888 55.651944444),female,,,,,,,,Peebles
+http://www.wikidata.org/entity/Q43390732,A/EGD/2206,Cristian Wilson,Dysart,Point(-3.12538 56.12557),female,,,,,,,,Dysart
+http://www.wikidata.org/entity/Q43390782,A/EGD/2299,Beatrix Watsone,Corstorphine,Point(-3.28544 55.9429),female,weaver,,working poor,,,,,Corstorphine
+http://www.wikidata.org/entity/Q43391101,A/EGD/47,Bessie Paull,Aberdeen,Point(-2.1 57.15),female,,,,,,,,Aberdeen
+http://www.wikidata.org/entity/Q43391183,A/EGD/511,Nicoll Stillie,Haddington,Point(-2.78332 55.95612),male,,,,,,,,Haddington
+http://www.wikidata.org/entity/Q43391274,A/EGD/577,Janet McMurdoche,Dumfries,Point(-3.616666666 55.066666666),female,,,,,capital punishment,,Dumfries,Dumfries
+http://www.wikidata.org/entity/Q43391285,A/EGD/591,Jonet Howat,Forfar,Point(-2.89 56.643055555),female,,,,,,,,Forfar
+http://www.wikidata.org/entity/Q43391285,A/EGD/591,Jonet Howat,Kirkcudbright,Point(-4.051666666 54.835277777),female,,,,,,,,Forfar
+http://www.wikidata.org/entity/Q43391285,A/EGD/591,Jonet Howat,Forfar,Point(-2.89 56.643055555),female,,,,,,,,Kirkcudbright
+http://www.wikidata.org/entity/Q43391285,A/EGD/591,Jonet Howat,Kirkcudbright,Point(-4.051666666 54.835277777),female,,,,,,,,Kirkcudbright
+http://www.wikidata.org/entity/Q43391292,A/EGD/598,Katherine Sands,Culross,Point(-3.6293 56.0554),female,,,,,capital punishment,,Gallow Lea,Culross
+http://www.wikidata.org/entity/Q43391413,A/EGD/716,John Glass,Ross and Cromarty,Point(-5.0 57.666666666),male,,,middling,,,,,Ross and Cromarty
+http://www.wikidata.org/entity/Q43391468,A/EGD/772,Jannett Sawer,Ayr,Point(-4.627777777 55.463888888),female,,,middling,,capital punishment,,Ayr,Ayr
+http://www.wikidata.org/entity/Q43391510,A/EGD/819,Nicolas Lauson,Pittenweem,Point(-2.728611111 56.213055555),female,,,middling,,,,,Pittenweem
+http://www.wikidata.org/entity/Q43391575,A/EGD/892,Marioun Rutherford,Kirkcaldy,Point(-3.167369444 56.110730555),female,,,,,,,,Kirkcaldy
+http://www.wikidata.org/entity/Q43391610,A/EGD/939,Barbara Flint,Eyemouth,Point(-2.090555555 55.869444444),female,,,,,,,,Eyemouth
+http://www.wikidata.org/entity/Q43391671,A/JO/2640,wife of Whyte,North Berwick,Point(-2.717 56.058),female,,,,,,,,North Berwick
+http://www.wikidata.org/entity/Q43391678,A/JO/2763,Margaret Garvie,Falkland,Point(-3.2 56.25),female,,,middling,,,,,Falkland
+http://www.wikidata.org/entity/Q43391698,A/JO/2802,Isabel Henderson,Canongate,Point(-3.1793 55.9517),female,,,,,,,,Canongate
+http://www.wikidata.org/entity/Q43391867,A/LA/2843,Margaret Ewing,Renfrew,Point(-4.366666666 55.866666666),female,,,,,,,,Renfrew
+http://www.wikidata.org/entity/Q43392125,A/EGD/1730,Annabell Stewart,Glasgow,Point(-4.25 55.861111111),female,,,middling,,,,,Glasgow
+http://www.wikidata.org/entity/Q43392125,A/EGD/1730,Annabell Stewart,Paisley,Point(-4.423888888 55.845555555),female,,,middling,,,,,Glasgow
+http://www.wikidata.org/entity/Q43392125,A/EGD/1730,Annabell Stewart,Glasgow,Point(-4.25 55.861111111),female,,,middling,,,,,Paisley
+http://www.wikidata.org/entity/Q43392125,A/EGD/1730,Annabell Stewart,Paisley,Point(-4.423888888 55.845555555),female,,,middling,,,,,Paisley
+http://www.wikidata.org/entity/Q43392254,A/EGD/1732,Jonet Mathie,Paisley,Point(-4.423888888 55.845555555),female,,,middling,,capital punishment,,Gallows Green,Paisley
+http://www.wikidata.org/entity/Q43392262,A/EGD/1876,Margaret Hamilton secondus,Bo'ness,Point(-3.608911111 56.016811111),female,,,,,,,,Bo'ness
+http://www.wikidata.org/entity/Q43392333,A/EGD/28,Katherene Ross,Edinburgh,Point(-3.189166666 55.953333333),female,,,nobility,,,,,Edinburgh
+http://www.wikidata.org/entity/Q43392366,A/EGD/363,Margaret Rammage,Musselburgh,Point(-3.054166666 55.941944444),female,,,,,,,,Musselburgh
+http://www.wikidata.org/entity/Q43392366,A/EGD/363,Margaret Rammage,Edmonstone,Point(-3.115893 55.917566),female,,,,,,,,Musselburgh
+http://www.wikidata.org/entity/Q43392366,A/EGD/363,Margaret Rammage,Musselburgh,Point(-3.054166666 55.941944444),female,,,,,,,,Edmonstone
+http://www.wikidata.org/entity/Q43392366,A/EGD/363,Margaret Rammage,Edmonstone,Point(-3.115893 55.917566),female,,,,,,,,Edmonstone
+http://www.wikidata.org/entity/Q43392375,A/EGD/397,Margaret Porteous,Edinburgh,Point(-3.189166666 55.953333333),female,,,,,,,,Edinburgh
+http://www.wikidata.org/entity/Q43392461,A/EGD/906,Alesoune Hutchesoune,St Colme House,Point(-3.31373 56.0443),female,,,,,,,,St Colme House
+http://www.wikidata.org/entity/Q43392476,A/JO/2784,Elizabeth Burnett,Lauder,Point(-2.74855 55.7194),female,,,middling,,,,,Lauder
+http://www.wikidata.org/entity/Q43392482,A/LA/2690,Margaret Stevensoun,Musselburgh,Point(-3.054166666 55.941944444),female,,,,,,,,Musselburgh
+http://www.wikidata.org/entity/Q43392580,A/EGD/1036,Margaret Muirhead,Dalkeith,Point(-3.068332 55.893642),female,vagrant,,vagrant,,,,,Dalkeith
+http://www.wikidata.org/entity/Q43392739,A/EGD/113,"Francis Stewart, Earl of Bothwell",Edinburgh,Point(-3.189166666 55.953333333),male,,,nobility,,,,,Edinburgh
+http://www.wikidata.org/entity/Q43392828,A/EGD/1190,Margaret Veitche,Cousland,Point(-2.995274 55.904962),female,,,,,,,,Cousland
+http://www.wikidata.org/entity/Q43392998,A/EGD/1325,Margarit Robertson,Haddington,Point(-2.78332 55.95612),female,,,,,,,,Haddington
+http://www.wikidata.org/entity/Q43393000,A/EGD/1326,Margrat Vaith,Haddington,Point(-2.78332 55.95612),female,,,,,,,,Haddington
+http://www.wikidata.org/entity/Q43393112,A/EGD/1385,George Lumsdeall,Peebles,Point(-3.188888888 55.651944444),male,,,,,capital punishment,,Traquair,Peebles
+http://www.wikidata.org/entity/Q43393149,A/EGD/1401,Margaret Dron,Rhynd,Point(-3.36614 56.3648),female,,,,,,,,Rhynd
+http://www.wikidata.org/entity/Q43393243,A/EGD/1440,Margret Wylie,Edinburgh,Point(-3.189166666 55.953333333),female,,,middling,,,,,Edinburgh
+http://www.wikidata.org/entity/Q43393470,A/EGD/1541,Masie Robison,Lauder,Point(-2.74855 55.7194),female,,,,,,,,Lauder
+http://www.wikidata.org/entity/Q43393594,A/EGD/1606,Marion Lawrie,Humbie,Point(-2.867388888 55.854388888),female,,,,,,,,Humbie
+http://www.wikidata.org/entity/Q43393689,A/EGD/1648,Kathrin Nyn Owan Vic Omnoch,Comar,Point(-4.770844 57.341849),female,,,,,,,,Comar
+http://www.wikidata.org/entity/Q43393694,A/EGD/1650,Jonet Ninian Rory Mie,Comar,Point(-4.770844 57.341849),female,,,,,,,,Comar
+http://www.wikidata.org/entity/Q43393704,A/EGD/1654,Gormyle Grant,Comar,Point(-4.770844 57.341849),,,,,,,,,Comar
+http://www.wikidata.org/entity/Q43393723,A/EGD/1791,Jonet Coutts,Peebles,Point(-3.188888888 55.651944444),female,,,,,capital punishment,,,Peebles
+http://www.wikidata.org/entity/Q43393784,A/EGD/1835,Margaret Cant,Aberdour,Point(-3.3021 56.0528),female,,,,,,,,Aberdour
+http://www.wikidata.org/entity/Q43393842,A/EGD/1878,William Craw,Bo'ness,Point(-3.608911111 56.016811111),male,,,middling,,,,,Bo'ness
+http://www.wikidata.org/entity/Q43393843,A/EGD/1710,Hendry Wilson,Duns,Point(-2.3426 55.7784),male,loadman,,working poor,,,,,Duns
+http://www.wikidata.org/entity/Q43393855,A/EGD/1720,Marget Bigland,Scalloway,Point(-1.275 60.137),female,,,,,,,,Scalloway
+http://www.wikidata.org/entity/Q43393919,A/EGD/1756,Agnes Naismith,Glasgow,Point(-4.25 55.861111111),female,,,middling,,capital punishment,,Gallows Green,Glasgow
+http://www.wikidata.org/entity/Q43393919,A/EGD/1756,Agnes Naismith,Renfrew,Point(-4.366666666 55.866666666),female,,,middling,,capital punishment,,Gallows Green,Glasgow
+http://www.wikidata.org/entity/Q43393919,A/EGD/1756,Agnes Naismith,Glasgow,Point(-4.25 55.861111111),female,,,middling,,capital punishment,,Gallows Green,Renfrew
+http://www.wikidata.org/entity/Q43393919,A/EGD/1756,Agnes Naismith,Renfrew,Point(-4.366666666 55.866666666),female,,,middling,,capital punishment,,Gallows Green,Renfrew
+http://www.wikidata.org/entity/Q43393982,A/EGD/1995,Elizabeth Grahame,Irvine,Point(-4.661111111 55.619444444),female,,,,,,,,Irvine
+http://www.wikidata.org/entity/Q43394273,A/EGD/2270,Elspeth Cant,North Queensferry,Point(-3.394166666 56.011111111),female,,,,,capital punishment,,,North Queensferry
+http://www.wikidata.org/entity/Q43394391,A/EGD/2310,Jonet Paterson,Renfrew,Point(-4.366666666 55.866666666),female,,,,,,,,Renfrew
+http://www.wikidata.org/entity/Q43394396,A/EGD/2312,Jeane Scott,Renfrew,Point(-4.366666666 55.866666666),female,,,,,,,,Renfrew
+http://www.wikidata.org/entity/Q43394410,A/EGD/2318,Jonat Couper,Brechin,Point(-2.655277777 56.73),female,,,,,,,,Brechin
+http://www.wikidata.org/entity/Q43394463,A/EGD/2340,Janet Sym,Montrose,Point(-2.467 56.708),female,,,,,,,,Montrose
+http://www.wikidata.org/entity/Q43394638,A/EGD/2429,Geillis Gray,Lathockar House,Point(-2.821276555 56.288685781),female,,,,,,,,Lathockar House
+http://www.wikidata.org/entity/Q43394677,A/EGD/2449,Margaret Bannantyne,Dysart,Point(-3.12538 56.12557),female,,,,,,,,Dysart
+http://www.wikidata.org/entity/Q43394687,A/EGD/2455,Margaret Wilsone,Dysart,Point(-3.12538 56.12557),female,,,,,,,,Dysart
+http://www.wikidata.org/entity/Q43394788,A/EGD/2518,Katherine Smith,Inverkeithing,Point(-3.383333333 56.033333333),female,,,,,,,,Inverkeithing
+http://www.wikidata.org/entity/Q43394870,A/EGD/301,Jean Sydserff,Edinburgh,Point(-3.189166666 55.953333333),female,,,,,,,,Edinburgh
+http://www.wikidata.org/entity/Q43394870,A/EGD/301,Jean Sydserff,Dunbar,Point(-2.522777777 55.998333333),female,,,,,,,,Edinburgh
+http://www.wikidata.org/entity/Q43394870,A/EGD/301,Jean Sydserff,Edinburgh,Point(-3.189166666 55.953333333),female,,,,,,,,Dunbar
+http://www.wikidata.org/entity/Q43394870,A/EGD/301,Jean Sydserff,Dunbar,Point(-2.522777777 55.998333333),female,,,,,,,,Dunbar
+http://www.wikidata.org/entity/Q43394911,A/EGD/347,Marioun Yool,Edinburgh,Point(-3.189166666 55.953333333),female,,,,,,,,Edinburgh
+http://www.wikidata.org/entity/Q43394911,A/EGD/347,Marioun Yool,Tranent,Point(-2.95417 55.9447),female,,,,,,,,Edinburgh
+http://www.wikidata.org/entity/Q43394911,A/EGD/347,Marioun Yool,Edinburgh,Point(-3.189166666 55.953333333),female,,,,,,,,Tranent
+http://www.wikidata.org/entity/Q43394911,A/EGD/347,Marioun Yool,Tranent,Point(-2.95417 55.9447),female,,,,,,,,Tranent
+http://www.wikidata.org/entity/Q43395043,A/EGD/509,Issobell Stillie,Haddington,Point(-2.78332 55.95612),female,,,,,,,,Haddington
+http://www.wikidata.org/entity/Q43395048,A/EGD/514,Elspeth Tailyeor,Haddington,Point(-2.78332 55.95612),female,,,,,,,,Haddington
+http://www.wikidata.org/entity/Q43395088,A/EGD/576,Elspeth Thomsone,Dumfries,Point(-3.616666666 55.066666666),female,,,,,capital punishment,,Dumfries,Dumfries
+http://www.wikidata.org/entity/Q43395089,A/EGD/578,Andrew Laidlay,Jedburgh,Point(-2.546 55.477),male,,,,,,,,Jedburgh
+http://www.wikidata.org/entity/Q43395091,A/EGD/579,Mary Sommerveil,Jedburgh,Point(-2.546 55.477),female,,,,,,,,Jedburgh
+http://www.wikidata.org/entity/Q43395093,A/EGD/580,George Guidlet,Jedburgh,Point(-2.546 55.477),male,,,,,,,,Jedburgh
+http://www.wikidata.org/entity/Q43395106,A/EGD/599,Christian Hogger,Edinburgh,Point(-3.189166666 55.953333333),female,,,,,,,,Edinburgh
+http://www.wikidata.org/entity/Q43395179,A/EGD/682,Margaret Dods,Edinburgh,Point(-3.189166666 55.953333333),female,,,,,capital punishment,,,Edinburgh
+http://www.wikidata.org/entity/Q43395276,A/EGD/839,Issobell McKie,Stirling,Point(-3.9369 56.1166),female,,,,,,,,Stirling
+http://www.wikidata.org/entity/Q43395285,A/EGD/855,Marioun Hendirsoun,Jedburgh,Point(-2.546 55.477),female,,,,,,,,Jedburgh
+http://www.wikidata.org/entity/Q43395292,A/EGD/865,Watty Bryis,Dunblane,Point(-3.973611111 56.188888888),male,,,,,,,,Dunblane
+http://www.wikidata.org/entity/Q43395294,A/EGD/866,Jonnet Murriache,Dunblane,Point(-3.973611111 56.188888888),female,,,,,capital punishment,,,Dunblane
+http://www.wikidata.org/entity/Q43395300,A/EGD/875,Andro Turnbull,Linlithgow,Point(-3.610555555 55.975277777),male,,,,,,,,Linlithgow
+http://www.wikidata.org/entity/Q43395322,A/EGD/895,Catherine Blair,Glasgow,Point(-4.25 55.861111111),female,,,,,,,,Glasgow
+http://www.wikidata.org/entity/Q43395344,A/EGD/920,Margaret Kynnell,Inverkeithing,Point(-3.383333333 56.033333333),female,,,middling,,,,,Inverkeithing
+http://www.wikidata.org/entity/Q43395367,A/EGD/954,Marjorie Patersone,Crail,Point(-2.6263 56.2608),female,,,,,,,,Crail
+http://www.wikidata.org/entity/Q43395400,A/EGD/99,Gelie Duncan,Haddington,Point(-2.78332 55.95612),female,,,,,,,,Haddington
+http://www.wikidata.org/entity/Q43395414,A/JO/2569,Janet Burg,Haddington,Point(-2.78332 55.95612),female,,,,,,,,Haddington
+http://www.wikidata.org/entity/Q43395418,A/JO/2572,Adam Moffat,Haddington,Point(-2.78332 55.95612),male,,,,,,,,Haddington
+http://www.wikidata.org/entity/Q43390016,A/EGD/1063,Marion Hardie,Eyemouth,Point(-2.090555555 55.869444444),female,,,upper class,,,,,Eyemouth
+http://www.wikidata.org/entity/Q43390080,A/EGD/1141,Jon Hog,Edinburgh,Point(-3.189166666 55.953333333),male,,,middling,,,,,Edinburgh
+http://www.wikidata.org/entity/Q43390097,A/EGD/1153,William Stevinsoun,Duns,Point(-2.3426 55.7784),male,,,,,,,,Duns
+http://www.wikidata.org/entity/Q43390181,A/EGD/1258,Isabel Sinclair,Eyemouth,Point(-2.090555555 55.869444444),female,,,,,,,,Eyemouth
+http://www.wikidata.org/entity/Q43390233,A/EGD/1306,Margaret Bartilman,Haddington,Point(-2.78332 55.95612),female,,,,,,,,Haddington
+http://www.wikidata.org/entity/Q43390243,A/EGD/1316,Patrik Watsone,Dirleton,Point(-2.785 56.048),male,,,,,,,,Dirleton
+http://www.wikidata.org/entity/Q43390314,A/EGD/151,Katharine Oswald,Edinburgh,Point(-3.189166666 55.953333333),female,,,middling,,capital punishment,,Castle Hill,Edinburgh
+http://www.wikidata.org/entity/Q43390357,A/EGD/155,Alexander Hammiltoun,Edinburgh,Point(-3.189166666 55.953333333),male,vagrant,,pauper,,capital punishment,,Castle Hill,Edinburgh
+http://www.wikidata.org/entity/Q43390357,A/EGD/155,Alexander Hammiltoun,Duns,Point(-2.3426 55.7784),male,vagrant,,pauper,,capital punishment,,Castle Hill,Edinburgh
+http://www.wikidata.org/entity/Q43390357,A/EGD/155,Alexander Hammiltoun,Berwick-upon-Tweed,Point(-2.0025 55.769166666),male,vagrant,,pauper,,capital punishment,,Castle Hill,Edinburgh
+http://www.wikidata.org/entity/Q43390357,A/EGD/155,Alexander Hammiltoun,Haddington,Point(-2.78332 55.95612),male,vagrant,,pauper,,capital punishment,,Castle Hill,Edinburgh
+http://www.wikidata.org/entity/Q43390357,A/EGD/155,Alexander Hammiltoun,Edinburgh,Point(-3.189166666 55.953333333),male,vagrant,,pauper,,capital punishment,,Castle Hill,Duns
+http://www.wikidata.org/entity/Q43390357,A/EGD/155,Alexander Hammiltoun,Duns,Point(-2.3426 55.7784),male,vagrant,,pauper,,capital punishment,,Castle Hill,Duns
+http://www.wikidata.org/entity/Q43390357,A/EGD/155,Alexander Hammiltoun,Berwick-upon-Tweed,Point(-2.0025 55.769166666),male,vagrant,,pauper,,capital punishment,,Castle Hill,Duns
+http://www.wikidata.org/entity/Q43390357,A/EGD/155,Alexander Hammiltoun,Haddington,Point(-2.78332 55.95612),male,vagrant,,pauper,,capital punishment,,Castle Hill,Duns
+http://www.wikidata.org/entity/Q43390357,A/EGD/155,Alexander Hammiltoun,Edinburgh,Point(-3.189166666 55.953333333),male,vagrant,,pauper,,capital punishment,,Castle Hill,Berwick-upon-Tweed
+http://www.wikidata.org/entity/Q43390357,A/EGD/155,Alexander Hammiltoun,Duns,Point(-2.3426 55.7784),male,vagrant,,pauper,,capital punishment,,Castle Hill,Berwick-upon-Tweed
+http://www.wikidata.org/entity/Q43390357,A/EGD/155,Alexander Hammiltoun,Berwick-upon-Tweed,Point(-2.0025 55.769166666),male,vagrant,,pauper,,capital punishment,,Castle Hill,Berwick-upon-Tweed
+http://www.wikidata.org/entity/Q43390357,A/EGD/155,Alexander Hammiltoun,Haddington,Point(-2.78332 55.95612),male,vagrant,,pauper,,capital punishment,,Castle Hill,Berwick-upon-Tweed
+http://www.wikidata.org/entity/Q43390357,A/EGD/155,Alexander Hammiltoun,Edinburgh,Point(-3.189166666 55.953333333),male,vagrant,,pauper,,capital punishment,,Castle Hill,Haddington
+http://www.wikidata.org/entity/Q43390357,A/EGD/155,Alexander Hammiltoun,Duns,Point(-2.3426 55.7784),male,vagrant,,pauper,,capital punishment,,Castle Hill,Haddington
+http://www.wikidata.org/entity/Q43390357,A/EGD/155,Alexander Hammiltoun,Berwick-upon-Tweed,Point(-2.0025 55.769166666),male,vagrant,,pauper,,capital punishment,,Castle Hill,Haddington
+http://www.wikidata.org/entity/Q43390357,A/EGD/155,Alexander Hammiltoun,Haddington,Point(-2.78332 55.95612),male,vagrant,,pauper,,capital punishment,,Castle Hill,Haddington
+http://www.wikidata.org/entity/Q43390384,A/EGD/159,Alisone Nisbet,Edinburgh,Point(-3.189166666 55.953333333),female,midwife,,working poor,,capital punishment,,Castle Hill,Edinburgh
+http://www.wikidata.org/entity/Q43390608,A/EGD/201,Bessie Graham,Dumfries,Point(-3.616666666 55.066666666),female,,,middling,,,,,Dumfries
+http://www.wikidata.org/entity/Q43390967,A/EGD/360,Agnes Loch,Musselburgh,Point(-3.054166666 55.941944444),female,,,,,capital punishment,,Musselburgh,Musselburgh
+http://www.wikidata.org/entity/Q43391366,A/EGD/683,Marion Veitch,Edinburgh,Point(-3.189166666 55.953333333),female,,,,,capital punishment,,,Edinburgh
+http://www.wikidata.org/entity/Q43391653,A/EGD/995,Jonnat Reany,Dunfermline,Point(-3.461666666 56.071388888),female,,,,,,,,Dunfermline
+http://www.wikidata.org/entity/Q43391686,A/JO/2774,Jonet Hood,Eyemouth,Point(-2.090555555 55.869444444),female,,,,,,,,Eyemouth
+http://www.wikidata.org/entity/Q43391693,A/JO/2779,Isobel Boill,Jedburgh,Point(-2.546 55.477),female,,,middling,,,,,Jedburgh
+http://www.wikidata.org/entity/Q43391712,A/JO/2819,Elizabeth Wark,Balliemore,Point(-5.056083897 56.146419709),female,,,,,,,,Balliemore
+http://www.wikidata.org/entity/Q43392118,A/EGD/109,Bessie Thompson,Edinburgh,Point(-3.189166666 55.953333333),female,,,,,,,,Edinburgh
+http://www.wikidata.org/entity/Q43392216,A/EGD/1250,Marion Mure,Leith,Point(-3.17005 55.9801),female,,,,,capital punishment,,,Leith
+http://www.wikidata.org/entity/Q43392334,A/EGD/1849,Bessie Stevenson,Stirling,Point(-3.9369 56.1166),female,,,,,capital punishment,,,Stirling
+http://www.wikidata.org/entity/Q43392334,A/EGD/306,Bessie Stevenson,Stirling,Point(-3.9369 56.1166),female,,,,,capital punishment,,,Stirling
+http://www.wikidata.org/entity/Q43392408,A/EGD/681,Helen Laying,Edinburgh,Point(-3.189166666 55.953333333),female,,,middling,,capital punishment,,,Edinburgh
+http://www.wikidata.org/entity/Q43392456,A/EGD/904,Agnes Quarrier,St Colme House,Point(-3.31373 56.0443),female,,,,,,,,St Colme House
+http://www.wikidata.org/entity/Q43392489,A/LA/2842,Margaret McKillope,Paisley,Point(-4.423888888 55.845555555),female,,,,,,,,Paisley
+http://www.wikidata.org/entity/Q43392651,A/EGD/1082,Alexander Drummond,Edinburgh,Point(-3.189166666 55.953333333),male,,,middling,,capital punishment,,Mercat Cross,Edinburgh
+http://www.wikidata.org/entity/Q43392651,A/EGD/1082,Alexander Drummond,Stirling,Point(-3.9369 56.1166),male,,,middling,,capital punishment,,Mercat Cross,Edinburgh
+http://www.wikidata.org/entity/Q43392651,A/EGD/1082,Alexander Drummond,Linlithgow,Point(-3.610555555 55.975277777),male,,,middling,,capital punishment,,Mercat Cross,Edinburgh
+http://www.wikidata.org/entity/Q43392651,A/EGD/1082,Alexander Drummond,Edinburgh,Point(-3.189166666 55.953333333),male,,,middling,,capital punishment,,Mercat Cross,Stirling
+http://www.wikidata.org/entity/Q43392651,A/EGD/1082,Alexander Drummond,Stirling,Point(-3.9369 56.1166),male,,,middling,,capital punishment,,Mercat Cross,Stirling
+http://www.wikidata.org/entity/Q43392651,A/EGD/1082,Alexander Drummond,Linlithgow,Point(-3.610555555 55.975277777),male,,,middling,,capital punishment,,Mercat Cross,Stirling
+http://www.wikidata.org/entity/Q43392651,A/EGD/1082,Alexander Drummond,Edinburgh,Point(-3.189166666 55.953333333),male,,,middling,,capital punishment,,Mercat Cross,Linlithgow
+http://www.wikidata.org/entity/Q43392651,A/EGD/1082,Alexander Drummond,Stirling,Point(-3.9369 56.1166),male,,,middling,,capital punishment,,Mercat Cross,Linlithgow
+http://www.wikidata.org/entity/Q43392651,A/EGD/1082,Alexander Drummond,Linlithgow,Point(-3.610555555 55.975277777),male,,,middling,,capital punishment,,Mercat Cross,Linlithgow
+http://www.wikidata.org/entity/Q43392728,A/EGD/1126,Bessie Lawder,Haddington,Point(-2.78332 55.95612),female,,,,,,,,Haddington
+http://www.wikidata.org/entity/Q43392731,A/EGD/1127,Katherine Lawder,Haddington,Point(-2.78332 55.95612),female,,,,,,,,Haddington
+http://www.wikidata.org/entity/Q43392744,A/EGD/1131,Katherine Kirktoun,Haddington,Point(-2.78332 55.95612),female,,,,,,,,Haddington
+http://www.wikidata.org/entity/Q43392778,A/EGD/1156,Margaret Ballame (Baleny),Ayton,Point(-2.125017 55.843108),female,,,,,,,,Ayton
+http://www.wikidata.org/entity/Q43392907,A/EGD/125,Bessie Aiken,Edinburgh,Point(-3.189166666 55.953333333),female,,,,,,,,Edinburgh
+http://www.wikidata.org/entity/Q43392947,A/EGD/1284,Jonet Erskine,Culross,Point(-3.6293 56.0554),female,,,,,,,,Culross
+http://www.wikidata.org/entity/Q43392947,A/EGD/1284,Jonet Erskine,Culross,Point(-3.6293 56.0554),female,,,,,,,,Canongate
+http://www.wikidata.org/entity/Q43393154,A/EGD/1405,Issobell Marshall,Rhynd,Point(-3.36614 56.3648),female,,,middling,,capital punishment,,,Rhynd
+http://www.wikidata.org/entity/Q43393190,A/EGD/1418,Elspeth Bruce,Forfar,Point(-2.89 56.643055555),female,,,,,,,,Forfar
+http://www.wikidata.org/entity/Q43393298,A/EGD/1462,Elspeth Tod,Rhynd,Point(-3.36614 56.3648),female,,,,,,,,Rhynd
+http://www.wikidata.org/entity/Q43393456,A/EGD/1537,Isobell Blyth,Edinburgh,Point(-3.189166666 55.953333333),female,,,,,,,,Edinburgh
+http://www.wikidata.org/entity/Q43393456,A/EGD/1537,Isobell Blyth,Auchtermuchty,Point(-3.23745 56.2898),female,,,,,,,,Edinburgh
+http://www.wikidata.org/entity/Q43393456,A/EGD/1537,Isobell Blyth,Edinburgh,Point(-3.189166666 55.953333333),female,,,,,,,,Auchtermuchty
+http://www.wikidata.org/entity/Q43393456,A/EGD/1537,Isobell Blyth,Auchtermuchty,Point(-3.23745 56.2898),female,,,,,,,,Auchtermuchty
+http://www.wikidata.org/entity/Q43393510,A/EGD/156,Michaell Erskine,Edinburgh,Point(-3.189166666 55.953333333),male,miller,,middling,,capital punishment,,,Edinburgh
+http://www.wikidata.org/entity/Q43393510,A/EGD/156,Michaell Erskine,Newbattle,Point(-3.0775 55.8817),male,miller,,middling,,capital punishment,,,Edinburgh
+http://www.wikidata.org/entity/Q43393510,A/EGD/156,Michaell Erskine,Edinburgh,Point(-3.189166666 55.953333333),male,miller,,middling,,capital punishment,,,Newbattle
+http://www.wikidata.org/entity/Q43393510,A/EGD/156,Michaell Erskine,Newbattle,Point(-3.0775 55.8817),male,miller,,middling,,capital punishment,,,Newbattle
+http://www.wikidata.org/entity/Q43393588,A/EGD/1604,Andrew Jonston,Humbie,Point(-2.86735 55.8544),male,,,,,,,,Humbie
+http://www.wikidata.org/entity/Q43393712,A/EGD/1657,Margret McClean,Comar,Point(-4.770844 57.341849),female,,,,,,,,Comar
+http://www.wikidata.org/entity/Q43393717,A/EGD/1660,Hectour McClean,Inverness,Point(-4.225833333 57.483888888),male,,,,,,,,Inverness
+http://www.wikidata.org/entity/Q43393724,A/EGD/1792,Marion Hunter,Lanark,Point(-3.77702 55.6749),female,,,,,,,,Lanark
+http://www.wikidata.org/entity/Q43393726,A/EGD/1793,Lillias Moffat,Lanark,Point(-3.77702 55.6749),female,,,,,,,,Lanark
+http://www.wikidata.org/entity/Q43393730,A/EGD/1796,Helen Acheson,Lanark,Point(-3.77702 55.6749),female,,,,,,,,Lanark
+http://www.wikidata.org/entity/Q43393827,A/EGD/1704,Margret Dobie,Torryburn,Point(-3.55 56.05),female,,,,,,,,Torryburn
+http://www.wikidata.org/entity/Q43393850,A/EGD/1717,More Nain Duy McIvers,Castle Tioram,Point(-5.829071903 56.784552181),,,,,,,,,Castle Tioram
+http://www.wikidata.org/entity/Q43393877,A/EGD/1735,Margaret Paterson,Dumbarton,Point(-4.547222222 55.948611111),female,,,,,,,,Dumbarton
+http://www.wikidata.org/entity/Q43393891,A/EGD/1741,Janet McNair,Edinburgh,Point(-3.189166666 55.953333333),female,,,,,,,,Edinburgh
+http://www.wikidata.org/entity/Q43393891,A/EGD/1741,Janet McNair,Stirling,Point(-3.9369 56.1166),female,,,,,,,,Edinburgh
+http://www.wikidata.org/entity/Q43393891,A/EGD/1741,Janet McNair,Edinburgh,Point(-3.189166666 55.953333333),female,,,,,,,,Stirling
+http://www.wikidata.org/entity/Q43393891,A/EGD/1741,Janet McNair,Stirling,Point(-3.9369 56.1166),female,,,,,,,,Stirling
+http://www.wikidata.org/entity/Q43394023,A/EGD/2042,Margaret Oisone,Thurso,Point(-3.521111111 58.596111111),female,,,,,,,,Thurso
+http://www.wikidata.org/entity/Q43394275,A/EGD/2271,Isobel Young,Queensferry,Point(-3.4 55.9875),female,,,middling,,capital punishment,,,Queensferry
+http://www.wikidata.org/entity/Q43394280,A/EGD/2275,Janet Mowbray,North Queensferry,Point(-3.394166666 56.011111111),female,,,,,,,,North Queensferry
+http://www.wikidata.org/entity/Q43394393,A/EGD/2311,Jonnet Galbraith,Renfrew,Point(-4.366666666 55.866666666),female,,,,,,,,Renfrew
+http://www.wikidata.org/entity/Q43394534,A/EGD/2371,Janet Cornfoot,Pittenweem,Point(-2.728611111 56.213055555),female,,,,,,,,Pittenweem
+http://www.wikidata.org/entity/Q43394546,A/EGD/2377,Jean Brown,Edinburgh,Point(-3.189166666 55.953333333),female,servant,,working poor,,,,,Edinburgh
+http://www.wikidata.org/entity/Q43394546,A/EGD/2377,Jean Brown,Wigtown,Point(-4.443888888 54.8675),female,servant,,working poor,,,,,Edinburgh
+http://www.wikidata.org/entity/Q43394546,A/EGD/2377,Jean Brown,Edinburgh,Point(-3.189166666 55.953333333),female,servant,,working poor,,,,,Wigtown
+http://www.wikidata.org/entity/Q43394546,A/EGD/2377,Jean Brown,Wigtown,Point(-4.443888888 54.8675),female,servant,,working poor,,,,,Wigtown
+http://www.wikidata.org/entity/Q43394667,A/EGD/2444,Lillias Wallace,Pittenweem,Point(-2.728611111 56.213055555),female,,,,,,,,Pittenweem
+http://www.wikidata.org/entity/Q43394860,A/EGD/298,Helen Heriot,Edinburgh,Point(-3.189166666 55.953333333),female,,,,,,,,Edinburgh
+http://www.wikidata.org/entity/Q43394860,A/EGD/298,Helen Heriot,Dunbar,Point(-2.522777777 55.998333333),female,,,,,,,,Edinburgh
+http://www.wikidata.org/entity/Q43394860,A/EGD/298,Helen Heriot,Edinburgh,Point(-3.189166666 55.953333333),female,,,,,,,,Dunbar
+http://www.wikidata.org/entity/Q43394860,A/EGD/298,Helen Heriot,Dunbar,Point(-2.522777777 55.998333333),female,,,,,,,,Dunbar
+http://www.wikidata.org/entity/Q43394862,A/EGD/299,Alleson Fermor,Edinburgh,Point(-3.189166666 55.953333333),female,,,,,capital punishment,,,Edinburgh
+http://www.wikidata.org/entity/Q43394862,A/EGD/299,Alleson Fermor,Dunbar,Point(-2.522777777 55.998333333),female,,,,,capital punishment,,,Edinburgh
+http://www.wikidata.org/entity/Q43394862,A/EGD/299,Alleson Fermor,Edinburgh,Point(-3.189166666 55.953333333),female,,,,,capital punishment,,,Dunbar
+http://www.wikidata.org/entity/Q43394862,A/EGD/299,Alleson Fermor,Dunbar,Point(-2.522777777 55.998333333),female,,,,,capital punishment,,,Dunbar
+http://www.wikidata.org/entity/Q43395111,A/EGD/603,Margaret Smaill,Edinburgh,Point(-3.189166666 55.953333333),female,,,,,capital punishment,,Gallow Lea,Edinburgh
+http://www.wikidata.org/entity/Q43395113,A/EGD/610,Isobel Shank,Edinburgh,Point(-3.189166666 55.953333333),female,,,,,capital punishment,,Gallow Lea,Edinburgh
+http://www.wikidata.org/entity/Q43395114,A/EGD/611,Margaret Lowis,Edinburgh,Point(-3.189166666 55.953333333),female,,,,,capital punishment,,Gallow Lea,Edinburgh
+http://www.wikidata.org/entity/Q43395266,A/EGD/828,Agnes MaCaw,Perth,Point(-3.433333333 56.395833333),female,,,,,,,,Perth
+http://www.wikidata.org/entity/Q43390457,A/EGD/1753,Catharin Mactargett,Dunbar,Point(-2.522777777 55.998333333),female,,,middling,,,,,Dunbar
+http://www.wikidata.org/entity/Q43390885,A/EGD/283,Margaret Tailyeor,Alloa,Point(-3.7912 56.1155),female,,,,,,,,Alloa
+http://www.wikidata.org/entity/Q43392947,A/EGD/1284,Jonet Erskine,Canongate,Point(-3.1793 55.9517),female,,,,,,,,Culross
+http://www.wikidata.org/entity/Q43392947,A/EGD/1284,Jonet Erskine,Canongate,Point(-3.1793 55.9517),female,,,,,,,,Canongate
+http://www.wikidata.org/entity/Q43392949,A/EGD/1285,Margaret Young,Queensferry,Point(-3.4 55.9875),female,,,,,,,,Queensferry
+http://www.wikidata.org/entity/Q43392984,A/EGD/1315,Bessie Hogge,Dirleton,Point(-2.785 56.048),female,,,,,,,,Dirleton
+http://www.wikidata.org/entity/Q43393010,A/EGD/1332,Issobell Ritchardsone,Haddington,Point(-2.78332 55.95612),female,,,,,,,,Haddington
+http://www.wikidata.org/entity/Q43393033,A/EGD/1344,Issobell Cairnes,Haddington,Point(-2.78332 55.95612),female,,,,,,,,Haddington
+http://www.wikidata.org/entity/Q43393094,A/EGD/1378,William Hog,Musselburgh,Point(-3.054166666 55.941944444),male,,,middling,,,,,Musselburgh
+http://www.wikidata.org/entity/Q43393159,A/EGD/1407,Eupham Hougan,Rhynd,Point(-3.36614 56.3648),female,,,middling,,capital punishment,,,Rhynd
+http://www.wikidata.org/entity/Q43393251,A/EGD/1443,Jonet Howat,Forfar,Point(-2.89 56.643055555),female,,,middling,,,,,Forfar
+http://www.wikidata.org/entity/Q43393291,A/EGD/1459,Jonet Scrogges,Rhynd,Point(-3.36614 56.3648),female,,,,,,,,Rhynd
+http://www.wikidata.org/entity/Q43393296,A/EGD/1461,Cristian Vallandge,Rhynd,Point(-3.36614 56.3648),female,,,,,,,,Rhynd
+http://www.wikidata.org/entity/Q43393599,A/EGD/1608,Janet Carnecroce,Humbie,Point(-2.86735 55.8544),female,,,,,,,,Humbie
+http://www.wikidata.org/entity/Q43393698,A/EGD/1776,Agnes Wrath,Fortrose,Point(-4.13237 57.5815),female,,,,,,,,Fortrose
+http://www.wikidata.org/entity/Q43393727,A/EGD/1794,Mali Laidlaw,Lanark,Point(-3.77702 55.6749),female,,,,,,,,Lanark
+http://www.wikidata.org/entity/Q43393739,A/EGD/1802,David Steward,Tyninghame,Point(-2.62638889 56.00277778),male,,,,,capital punishment,,Tyninghame,Tyninghame
+http://www.wikidata.org/entity/Q43393817,A/EGD/1700,Jonet Patoun,Paisley,Point(-4.423888888 55.845555555),female,,,middling,,,,,Paisley
+http://www.wikidata.org/entity/Q43393840,A/EGD/1709,Margret Cowie,Torryburn,Point(-3.55 56.05),female,,,,,,,,Torryburn
+http://www.wikidata.org/entity/Q43393860,A/EGD/1722,Bessie,Scalloway,Point(-1.275 60.137),female,,,,,,,,Scalloway
+http://www.wikidata.org/entity/Q43393912,A/EGD/1750,Margaret Laing,Loanhead,Point(-3.14827 55.8778),female,,,,,,,,Loanhead
+http://www.wikidata.org/entity/Q43393915,A/EGD/1751,Janet Douglas,Canongate,Point(-3.1793 55.9517),female,,,,,,,,Canongate
+http://www.wikidata.org/entity/Q43394040,A/EGD/2068,Thomas Leyis,Aberdeen,Point(-2.1 57.15),male,,,middling,,capital punishment,,,Aberdeen
+http://www.wikidata.org/entity/Q43394066,A/EGD/2106,Ellen Gray,Aberdeen,Point(-2.1 57.15),female,,,,,capital punishment,,Aberdeen,Aberdeen
+http://www.wikidata.org/entity/Q43394066,A/EGD/2106,Ellen Gray,Old Slains Castle,Point(-1.91308 57.3605),female,,,,,capital punishment,,Aberdeen,Aberdeen
+http://www.wikidata.org/entity/Q43394066,A/EGD/2106,Ellen Gray,Aberdeen,Point(-2.1 57.15),female,,,,,capital punishment,,Aberdeen,Old Slains Castle
+http://www.wikidata.org/entity/Q43394066,A/EGD/2106,Ellen Gray,Old Slains Castle,Point(-1.91308 57.3605),female,,,,,capital punishment,,Aberdeen,Old Slains Castle
+http://www.wikidata.org/entity/Q43394286,A/EGD/2278,Margaret Dauling,North Queensferry,Point(-3.394166666 56.011111111),female,,,,,,,,North Queensferry
+http://www.wikidata.org/entity/Q43394350,A/EGD/2301,John Murdoche,Dunfermline,Point(-3.461666666 56.071388888),male,,,,,,,,Dunfermline
+http://www.wikidata.org/entity/Q43394529,A/EGD/2369,Isobel Adam,Pittenweem,Point(-2.728611111 56.213055555),female,,,,,,,,Pittenweem
+http://www.wikidata.org/entity/Q43394568,A/EGD/2386,Margaret Callum,Thurso,Point(-3.521111111 58.596111111),female,,,,,,,,Thurso
+http://www.wikidata.org/entity/Q43394835,A/EGD/280,Kathrine Remy,Alloa,Point(-3.7912 56.1155),female,,,,,,,,Alloa
+http://www.wikidata.org/entity/Q43394837,A/EGD/281,Bessie Paton,Alloa,Point(-3.7912 56.1155),female,,,,,,,,Alloa
+http://www.wikidata.org/entity/Q43394843,A/EGD/286,Margaret Duchill,Alloa,Point(-3.7912 56.1155),female,,,middling,,capital punishment,,,Alloa
+http://www.wikidata.org/entity/Q43395272,A/EGD/835,Jonet Drysdaill,Edinburgh,Point(-3.189166666 55.953333333),female,servant,,working poor,,,,,Edinburgh
+http://www.wikidata.org/entity/Q43395272,A/EGD/835,Jonet Drysdaill,Musselburgh,Point(-3.054166666 55.941944444),female,servant,,working poor,,,,,Edinburgh
+http://www.wikidata.org/entity/Q43395272,A/EGD/835,Jonet Drysdaill,Crichton,Point(-2.98249 55.8471),female,servant,,working poor,,,,,Edinburgh
+http://www.wikidata.org/entity/Q43395272,A/EGD/835,Jonet Drysdaill,Edinburgh,Point(-3.189166666 55.953333333),female,servant,,working poor,,,,,Musselburgh
+http://www.wikidata.org/entity/Q43395272,A/EGD/835,Jonet Drysdaill,Musselburgh,Point(-3.054166666 55.941944444),female,servant,,working poor,,,,,Musselburgh
+http://www.wikidata.org/entity/Q43395272,A/EGD/835,Jonet Drysdaill,Crichton,Point(-2.98249 55.8471),female,servant,,working poor,,,,,Musselburgh
+http://www.wikidata.org/entity/Q43395272,A/EGD/835,Jonet Drysdaill,Edinburgh,Point(-3.189166666 55.953333333),female,servant,,working poor,,,,,Crichton
+http://www.wikidata.org/entity/Q43395272,A/EGD/835,Jonet Drysdaill,Musselburgh,Point(-3.054166666 55.941944444),female,servant,,working poor,,,,,Crichton
+http://www.wikidata.org/entity/Q43395272,A/EGD/835,Jonet Drysdaill,Crichton,Point(-2.98249 55.8471),female,servant,,working poor,,,,,Crichton
+http://www.wikidata.org/entity/Q43395366,A/EGD/953,Anie Tailzeour,Orkney Islands,Point(-3.0 59.0),female,,,,,capital punishment,,Gallow Ha',Orkney Islands
+http://www.wikidata.org/entity/Q43395372,A/EGD/959,Helene Darumpill,Dysart,Point(-3.12538 56.12557),female,,,,,,,,Dysart
+http://www.wikidata.org/entity/Q43395373,A/EGD/96,Jonet Straton,Seton,Point(-2.940687 55.964086),female,,,,,,,,Seton
+http://www.wikidata.org/entity/Q43395413,A/JO/2568,Margaret Goodfellow,Haddington,Point(-2.78332 55.95612),female,,,,,,,,Haddington
+http://www.wikidata.org/entity/Q43395415,A/JO/2570,George Ker,Haddington,Point(-2.78332 55.95612),male,,,,,,,,Haddington
+http://www.wikidata.org/entity/Q43395417,A/JO/2571,James Reid,Haddington,Point(-2.78332 55.95612),male,,,,,,,,Haddington
+http://www.wikidata.org/entity/Q43395420,A/JO/2574,Jeane Ker,Haddington,Point(-2.78332 55.95612),female,,,,,,,,Haddington
+http://www.wikidata.org/entity/Q43395444,A/JO/2594,Marjorie Aytone,Haddington,Point(-2.78332 55.95612),female,,,,,,,,Haddington
+http://www.wikidata.org/entity/Q43395445,A/JO/2595,Marion Hastie,Haddington,Point(-2.78332 55.95612),female,,,,,,,,Haddington
+http://www.wikidata.org/entity/Q43395507,A/JO/2679,Jonet Schitlingtoun,Edinburgh,Point(-3.189166666 55.953333333),female,,,,,,,,Edinburgh
+http://www.wikidata.org/entity/Q43395577,A/JO/2746,Jonet Scott,Peebles,Point(-3.188888888 55.651944444),female,,,,,capital punishment,,Traquair,Peebles
+http://www.wikidata.org/entity/Q43395589,A/JO/2772,John Purdie,Ayton,Point(-2.125017 55.843108),male,,,,,,,,Ayton
+http://www.wikidata.org/entity/Q43395604,A/JO/2807,Bessie Gibson,Lanark,Point(-3.77702 55.6749),female,,,,,,,,Lanark
+http://www.wikidata.org/entity/Q43395605,A/JO/2808,Margaret Kilpatrick,Lanark,Point(-3.77702 55.6749),female,,,,,,,,Lanark
+http://www.wikidata.org/entity/Q43395616,A/JO/2823,Katherine Robertsone,Aberdour,Point(-3.3021 56.0528),female,,,,,,,,Aberdour
+http://www.wikidata.org/entity/Q43395655,A/JO/2906,Janet Pekok,Kirkwall,Point(-2.96 58.981111111),female,,,,,,,,Kirkwall
+http://www.wikidata.org/entity/Q43395682,A/JO/2932,Katherine Potter,Dysart,Point(-3.12538 56.12557),female,,,,,,,,Dysart
+http://www.wikidata.org/entity/Q43395683,A/JO/2933,Jonet Lodge,Dysart,Point(-3.12538 56.12557),female,,,,,,,,Dysart
+http://www.wikidata.org/entity/Q43395687,A/JO/2936,Jon Quhyt,Dysart,Point(-3.12538 56.12557),male,,,,,,,,Dysart
+http://www.wikidata.org/entity/Q43395689,A/JO/2938,Cristin Crystie,Dysart,Point(-3.12538 56.12557),female,,,,,,,,Dysart
+http://www.wikidata.org/entity/Q43395743,A/JO/3014,Jennet Watt,Newbattle,Point(-3.0775 55.8817),female,,,,,,,,Newbattle
+http://www.wikidata.org/entity/Q43395810,A/LA/2542,Jonet Barker,Edinburgh,Point(-3.189166666 55.953333333),female,shopkeeper,,working poor,,capital punishment,,Castle Hill,Edinburgh
+http://www.wikidata.org/entity/Q43395836,A/LA/2655,William King,Musselburgh,Point(-3.054166666 55.941944444),male,,,,,,,,Musselburgh
+http://www.wikidata.org/entity/Q43395947,A/LA/2829,Cristen Foster,Dunbar,Point(-2.522777777 55.998333333),female,,,,,,,,Dunbar
+http://www.wikidata.org/entity/Q43395955,A/LA/2838,Martha Sempell,Renfrew,Point(-4.366666666 55.866666666),female,,,,,,,,Renfrew
+http://www.wikidata.org/entity/Q43395957,A/LA/2840,Katherine Flowers,Renfrew,Point(-4.366666666 55.866666666),female,,,,,,,,Renfrew
+http://www.wikidata.org/entity/Q43396094,A/LA/3037,Effie McBrwme,Ayr,Point(-4.627777777 55.463888888),female,,,,,,,,Ayr
+http://www.wikidata.org/entity/Q43396153,A/LA/3112,Issobell Durie,Lasswade,Point(-3.11667 55.8833),female,,,,,,,,Lasswade
